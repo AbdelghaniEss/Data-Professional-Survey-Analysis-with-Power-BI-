@@ -1,0 +1,631 @@
+Unique ID,Q1-Current Job Title,Q2 - Did you switch careers into Data?,Q3 - Current Yearly Salary (in USD),Q4 - What Industry do you work in?,Q5 - Favorite Programming Language,Q6 - How happy are you with salary,Q6 - How happy are you with work/life balance,Q6 - How happy are you with coworkers,Q6 - How happy are you with management,Q6 - How happy are you with upward mobility,Q6 - How happy are you with learning new things,Q7 - How difficult was it for you to break into Data?,"Q8 - If you were to look for a new job today, what would be the most important thing to you?",Q9 - Male/Female?,Q10 - Current Age,Q11 - Which Country do you live in?,Q12 - Highest Level of Education,Q13 - Ethnicity
+62a33b3db4da29969c62df3d,data-related roles,Yes,115500.0,healthcare & medical,Python,9.0,9.0,7.0,5.0,5.0,7.0,Very Difficult,Remote Work,Male,26,united states,,White/Caucasian
+62a33ba1bae91e4b8b82e35c,data-related roles,No,53000.0,finance & insurance,R,1.0,2.0,5.0,2.0,1.0,3.0,Very Difficult,Remote Work,Male,36,canada,,Asian/Asian American
+62a33c2cbc6861bf3176bec1,data-related roles,No,20000.0,manufacturing & engineering,Python,0.0,8.0,7.0,5.0,7.0,7.0,Easy,Good Work/Life Balance,Male,23,nigeria,,Black/African American
+62a33c8624a26260273822f9,business intelligence & analytics,Yes,187500.0,finance & insurance,R,10.0,6.0,7.0,10.0,7.0,10.0,Very Easy,Remote Work,Female,35,canada,,White/Caucasian
+62a33c91f3072dd892621e03,data-related roles,Yes,53000.0,healthcare & medical,R,1.0,4.0,4.0,4.0,0.0,1.0,Difficult,Better Salary,Male,44,united states,,Black/African American
+62a33cb6cf25554317300177,data-related roles,Yes,20000.0,real estate & construction,Python,2.0,3.0,3.0,3.0,3.0,2.0,Difficult,Good Work/Life Balance,Male,33,republic democratic of congo,,Black/African American
+62a33cb72e54c9003e531c65,data-related roles,Yes,20000.0,finance & insurance,Python,0.0,6.0,6.0,6.0,6.0,5.0,Difficult,Better Salary,Male,24,other (please specify),,Black/African American
+62a33cd30f8c8599d5af0f8f,data-related roles,Yes,137500.0,retail & consumer goods,SQL,10.0,5.0,5.0,5.0,5.0,9.0,Neither easy nor difficult,Remote Work,Male,35,united states,,Asian/Asian American
+62a33cd3cf255543173001d9,data-related roles,Yes,95500.0,healthcare & medical,R,4.0,4.0,4.0,4.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,35,united states,,Asian/Asian American
+62a33cd8bc6861bf3176c05f,data-related roles,Yes,53000.0,technology & it,Python,2.0,0.0,3.0,3.0,0.0,4.0,Very Difficult,Better Salary,Male,28,united states,,Hispanic/Latino
+62a33ce918134ddc75ce8c30,data-related roles,Yes,75500.0,transportation & logistics,Python,10.0,10.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Remote Work,Male,37,canada,,White/Caucasian
+62a33cf30a77c1a77f65baa2,data-related roles,Yes,20000.0,entertainment & media,Python,3.0,8.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Better Salary,Male,32,serbia,,White/Caucasian
+62a33d15f408bae018ed370d,data-related roles,Yes,20000.0,technology & it,R,1.0,10.0,9.0,9.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,34,argentina,,Hispanic/Latino
+62a33d1ebae91e4b8b82e707,data-related roles,Yes,20000.0,education & nonprofit,Python,3.0,10.0,10.0,6.0,7.0,8.0,Easy,Good Work/Life Balance,Male,30,united kingdom,,White/Caucasian
+62a33d4624a26260273824c4,data-related roles,No,53000.0,real estate & construction,R,4.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Good Culture,Male,31,united states,,White/Caucasian
+62a33d5c0f8c8599d5af107c,data-related roles,Yes,53000.0,finance & insurance,Python,4.0,10.0,7.0,7.0,7.0,5.0,Difficult,Good Culture,Male,29,united states,,White/Caucasian
+62a33d850f8c8599d5af10cb,data-related roles,Yes,20000.0,technology & it,Python,1.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Better Salary,Male,22,niger,,Black/African American
+62a33d9bf8f7561645852496,miscellaneous,Yes,20000.0,retail & consumer goods,Python,1.0,3.0,2.0,2.0,4.0,1.0,Difficult,Better Salary,Male,23,united states,,Black/African American
+62a33dbdd8c00e9f5419cd65,miscellaneous,No,53000.0,technology & it,R,7.0,8.0,8.0,6.0,8.0,3.0,Very Difficult,Better Salary,Female,26,canada,,Asian/Asian American
+62a33de124a26260273826b2,data-related roles,No,20000.0,transportation & logistics,Python,1.0,1.0,1.0,1.0,2.0,0.0,Very Difficult,Better Salary,Male,28,nigeria,,Black/African American
+62a33dedd8c00e9f5419ce2b,data-related roles,Yes,53000.0,finance & insurance,Python,5.0,5.0,5.0,5.0,5.0,5.0,Easy,Remote Work,Male,29,kenya,,Black/African American
+62a33dfbd8c00e9f5419ceda,data-related roles,Yes,115500.0,technology & it,SQL,10.0,5.0,10.0,6.0,10.0,10.0,Neither easy nor difficult,Remote Work,Female,31,united states,,White/Caucasian
+62a33e38f3072dd8926221d3,data-related roles,Yes,20000.0,healthcare & medical,Python,5.0,6.0,8.0,8.0,7.0,1.0,Neither easy nor difficult,Remote Work,Male,28,azerbaijan,,White/Caucasian
+62a33e54d8c00e9f5419cfe9,data-related roles,No,20000.0,finance & insurance,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,32,argentina,,Hispanic/Latino
+62a33e62575fa3a5ae88aabf,data-related roles,No,20000.0,technology & it,Python,7.0,8.0,8.0,8.0,3.0,8.0,Easy,Better Salary,Male,24,sudan,,Black/African American
+62a33e63cec54911e9ca4f99,data-related roles,No,20000.0,technology & it,Python,4.0,6.0,6.0,6.0,7.0,7.0,Easy,Good Work/Life Balance,Male,31,india,,Asian/Asian American
+62a33e72bae91e4b8b82ea1a,data-related roles,No,75500.0,finance & insurance,SQL,7.0,10.0,5.0,5.0,5.0,2.0,Difficult,Other (Please Specify):Responsibilities,Male,23,united states,,White/Caucasian
+62a33e890f8c8599d5af13b9,data-related roles,Yes,115500.0,energy & utilities,Python,1.0,6.0,9.0,1.0,0.0,2.0,Difficult,Remote Work,Female,33,united states,,Asian/Asian American
+62a33e8bf8d5efcc22f7c79a,data-related roles,No,95500.0,healthcare & medical,Other,6.0,7.0,7.0,7.0,7.0,4.0,Very Easy,Better Salary,Male,43,united states,,White/Caucasian
+62a33e90cec54911e9ca5031,miscellaneous,Yes,20000.0,manufacturing & engineering,R,0.0,0.0,5.0,0.0,0.0,0.0,Very Difficult,Remote Work,Female,23,nigeria,,Black/African American
+62a33e9df8f756164585277b,miscellaneous,Yes,53000.0,finance & insurance,Python,10.0,7.0,10.0,10.0,5.0,3.0,Very Difficult,Good Work/Life Balance,Male,31,united states,,Black/African American
+62a33eb6bc6861bf3176c5a3,data-related roles,Yes,75500.0,finance & insurance,Python,5.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Other (Please Specify):Development,Male,31,united kingdom,,White/Caucasian
+62a33ee0bae91e4b8b82eaec,data-related roles,Yes,20000.0,miscellaneous,Python,8.0,7.0,8.0,7.0,7.0,7.0,Difficult,Good Work/Life Balance,Male,25,india,,Asian/Asian American
+62a33ee80f8c8599d5af14b7,data-related roles,No,137500.0,technology & it,SQL,8.0,10.0,10.0,9.0,9.0,9.0,Easy,Better Salary,Male,43,united states,,White/Caucasian
+62a33efe0a77c1a77f65bf1e,data-related roles,No,53000.0,finance & insurance,Python,2.0,3.0,5.0,5.0,5.0,5.0,Difficult,Better Salary,Female,26,canada,,Asian/Asian American
+62a33f0ef408bae018ed3aeb,finance & accounting,No,53000.0,manufacturing & engineering,Python,5.0,10.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Remote Work,Male,32,japan,,White/Caucasian
+62a33f17f8f7561645852867,business intelligence & analytics,No,20000.0,technology & it,Python,2.0,9.0,7.0,7.0,5.0,6.0,Difficult,Better Salary,Male,31,greece,,White/Caucasian
+62a33f52bc6861bf3176c72c,data-related roles,Yes,95500.0,healthcare & medical,SQL,3.0,5.0,6.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,29,united states,,White/Caucasian
+62a33f56cf255543173005e9,data-related roles,Yes,20000.0,manufacturing & engineering,Python,3.0,1.0,3.0,2.0,3.0,1.0,Neither easy nor difficult,Good Culture,Male,24,peru,,Hispanic/Latino
+62a33f5a5d257a28a30d7bb5,miscellaneous,Yes,53000.0,real estate & construction,Python,2.0,0.0,2.0,2.0,0.0,0.0,Very Difficult,Remote Work,Male,34,united states,,White/Caucasian
+62a33fa5cec54911e9ca51f1,data-related roles,Yes,53000.0,energy & utilities,Other,5.0,6.0,6.0,5.0,4.0,6.0,Very Difficult,Better Salary,Male,42,australia,,Asian/Asian American
+62a33fcb575fa3a5ae88ad59,miscellaneous,Yes,20000.0,miscellaneous,JavaScript,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Remote Work,Female,40,united states,,Asian/Asian American
+62a33fcf18134ddc75ce91c3,miscellaneous,No,53000.0,technology & it,Python,3.0,1.0,3.0,4.0,0.0,3.0,Easy,Good Work/Life Balance,Male,43,spain,,White/Caucasian
+62a34006d8c00e9f5419d341,miscellaneous,Yes,20000.0,real estate & construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,23,kenya,,Black/African American
+62a34020575fa3a5ae88ade0,miscellaneous,Yes,20000.0,education & nonprofit,Python,5.0,5.0,3.0,5.0,2.0,6.0,Difficult,Better Salary,Male,23,japan,,Asian/Asian American
+62a34038b4da29969c62eafe,data-related roles,Yes,95500.0,manufacturing & engineering,Python,8.0,6.0,2.0,3.0,6.0,7.0,Neither easy nor difficult,"Other (Please Specify):Strong organizational data strategy, high-performing team",Male,28,united states,,White/Caucasian
+62a3406b575fa3a5ae88ae78,data-related roles,No,75500.0,finance & insurance,SQL,5.0,7.0,1.0,1.0,0.0,8.0,Neither easy nor difficult,Better Salary,Male,32,united states,,White/Caucasian
+62a340cab4da29969c62ec01,data-related roles,Yes,75500.0,manufacturing & engineering,R,7.0,8.0,10.0,8.0,9.0,9.0,Difficult,Remote Work,Female,41,united states,,White/Caucasian
+62a340d62e54c9003e5324b4,data-related roles,Yes,53000.0,finance & insurance,Python,5.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Remote Work,Male,33,united kingdom,High School,White/Caucasian
+62a340e10a77c1a77f65c2e7,management & leadership,Yes,187500.0,technology & it,Python,10.0,8.0,9.0,8.0,8.0,10.0,Easy,Good Work/Life Balance,Male,38,united states,,Hispanic/Latino
+62a340f5bc6861bf3176caa4,data-related roles,No,20000.0,technology & it,SQL,8.0,8.0,8.0,8.0,5.0,10.0,Easy,Better Salary,Female,22,india,,Asian/Asian American
+62a34117cec54911e9ca54e7,miscellaneous,Yes,20000.0,energy & utilities,R,1.0,3.0,6.0,6.0,6.0,9.0,Difficult,Remote Work,Male,36,barbados,Bachelors,Black/African American
+62a3413a5d257a28a30d8074,data-related roles,No,75500.0,finance & insurance,Python,2.0,1.0,1.0,1.0,3.0,7.0,Easy,Remote Work,Female,28,united states,Masters,Asian/Asian American
+62a341a1f3072dd8926229a5,miscellaneous,Yes,20000.0,education & nonprofit,Python,,,,,,7.0,Very Easy,Other (Please Specify):I would say a combination of good work/life balance with a better pay and the exposure to a workplace that supposed growth,Male,30,south africa,,Black/African American
+62a341b0f8f7561645852d1d,data-related roles,Yes,75500.0,technology & it,Python,6.0,6.0,6.0,6.0,5.0,6.0,Difficult,Other (Please Specify):Currently very happy with where I am.,Female,24,united states,Bachelors,Hispanic/Latino
+62a341e8f8d5efcc22f7d002,business intelligence & analytics,No,53000.0,transportation & logistics,C/C++,3.0,6.0,7.0,7.0,0.0,3.0,Very Difficult,Better Salary,Male,29,united states,Bachelors,White/Caucasian
+62a34210cf25554317300c02,data-related roles,No,20000.0,technology & it,Python,4.0,9.0,10.0,9.0,9.0,10.0,Easy,Better Salary,Male,29,colombia,Associates,Hispanic/Latino
+62a3424eb4da29969c62eedd,business intelligence & analytics,Yes,53000.0,manufacturing & engineering,Python,6.0,8.0,8.0,7.0,9.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,38,germany,Masters,White/Caucasian
+62a34256bae91e4b8b82f16d,data-related roles,Yes,20000.0,finance & insurance,Other,3.0,5.0,4.0,3.0,3.0,3.0,Difficult,Good Work/Life Balance,Male,31,bulgaria,Masters,White/Caucasian
+62a3426cf408bae018ed409b,miscellaneous,No,20000.0,technology & it,Python,1.0,4.0,5.0,5.0,1.0,1.0,Difficult,Better Salary,Male,25,united states,Masters,White/Caucasian
+62a34272f8d5efcc22f7d15f,data-related roles,No,75500.0,technology & it,Python,4.0,6.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,24,united states,Masters,White/Caucasian
+62a34340bc6861bf3176d05b,business intelligence & analytics,Yes,53000.0,technology & it,Python,6.0,7.0,4.0,3.0,9.0,8.0,Difficult,Better Salary,Male,28,turkey,Bachelors,White/Caucasian
+62a34383b4da29969c62f1be,miscellaneous,No,20000.0,technology & it,Python,7.0,5.0,8.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Female,23,india,Bachelors,Asian/Asian American
+62a34389cec54911e9ca5a22,data-related roles,No,20000.0,technology & it,R,2.0,3.0,2.0,5.0,5.0,7.0,Neither easy nor difficult,Remote Work,Male,21,spain,Masters,Hispanic/Latino
+62a343a22e54c9003e532a2a,data-related roles,No,20000.0,energy & utilities,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,29,france,Bachelors,Other
+62a343d9f3072dd892622fe4,data-related roles,Yes,53000.0,technology & it,Python,5.0,6.0,7.0,7.0,7.0,6.0,Difficult,Better Salary,Male,25,united states,Bachelors,Asian/Asian American
+62a34400d8c00e9f5419dc2b,data-related roles,No,53000.0,technology & it,Python,6.0,6.0,6.0,6.0,3.0,5.0,Difficult,Good Culture,Male,27,germany,Masters,Black/African American
+62a34425f8d5efcc22f7d525,data-related roles,Yes,53000.0,technology & it,Python,3.0,9.0,10.0,8.0,9.0,9.0,Easy,Better Salary,Male,23,india,Bachelors,Asian/Asian American
+62a34449575fa3a5ae88b637,sr. supply chain analyst,No,95500.0,food & beverage,R,4.0,3.0,3.0,5.0,5.0,5.0,Difficult,Better Salary,Male,32,united states,Masters,Asian/Asian American
+62a3445dcf255543173011e1,miscellaneous,Yes,115500.0,healthcare & medical,Python,5.0,5.0,7.0,5.0,7.0,7.0,Neither easy nor difficult,Remote Work,Male,22,india,Bachelors,Asian/Asian American
+62a3447a575fa3a5ae88b6c0,data-related roles,No,20000.0,technology & it,Python,2.0,9.0,9.0,8.0,6.0,2.0,Easy,Better Salary,Male,25,thailand,Bachelors,Asian/Asian American
+62a3449f7dc029e2d66bf5d1,data-related roles,Yes,20000.0,technology & it,Python,2.0,8.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Remote Work,Female,36,germany,Masters,White/Caucasian
+62a344c5f408bae018ed4806,data-related roles,Yes,115500.0,technology & it,SQL,10.0,6.0,9.0,5.0,8.0,7.0,Easy,Good Work/Life Balance,Female,27,united states,Bachelors,White/Caucasian
+62a344c6f8d5efcc22f7d6e1,business intelligence & analytics,Yes,20000.0,technology & it,Python,5.0,5.0,5.0,5.0,5.0,1.0,Neither easy nor difficult,Other (Please Specify):My passion is to become a Data analyst ,Male,23,india,Bachelors,Asian/Asian American
+62a344e1f3072dd892623328,miscellaneous,Yes,20000.0,technology & it,SQL,2.0,3.0,3.0,3.0,3.0,6.0,Very Difficult,Better Salary,Male,26,netherlands,Bachelors,Black/African American
+62a3450424a262602738357f,management & leadership,No,95500.0,healthcare & medical,Python,9.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Good Work/Life Balance,Female,33,united states,PhD,Hispanic/Latino
+62a3452818134ddc75ce9e1b,data-related roles,Yes,115500.0,manufacturing & engineering,Python,3.0,5.0,3.0,3.0,5.0,5.0,Easy,Better Salary,Male,27,turkey,Masters,White/Caucasian
+62a345490a77c1a77f65cc5b,data-related roles,Yes,53000.0,education & nonprofit,R,3.0,6.0,5.0,4.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,42,united states,Associates,White/Caucasian
+62a3455bbc6861bf3176d57a,data-related roles,Yes,20000.0,technology & it,Python,6.0,7.0,8.0,7.0,7.0,8.0,Easy,Good Work/Life Balance,Male,29,spain,Masters,White/Caucasian
+62a3457bf8d5efcc22f7da17,data-related roles,No,137500.0,technology & it,Python,4.0,7.0,6.0,4.0,2.0,4.0,Easy,Better Salary,Female,27,united states,Masters,Asian/Asian American
+62a345b2bae91e4b8b82fad6,miscellaneous,No,53000.0,healthcare & medical,Python,0.0,10.0,10.0,10.0,4.0,2.0,Neither easy nor difficult,Remote Work,Female,39,united states,Bachelors,Hispanic/Latino
+62a345c47dc029e2d66bf80a,data-related roles,Yes,53000.0,technology & it,Python,6.0,6.0,7.0,5.0,6.0,7.0,Difficult,Good Culture,Male,31,denmark,Masters,White/Caucasian
+62a345e25d257a28a30d8b43,data-related roles,Yes,75500.0,entertainment & media,Python,7.0,7.0,5.0,9.0,7.0,8.0,Easy,Good Work/Life Balance,Male,29,brazil,Bachelors,Hispanic/Latino
+62a34646f8d5efcc22f7dc5c,data-related roles,Yes,75500.0,education & nonprofit,R,7.0,7.0,7.0,7.0,4.0,7.0,Easy,Remote Work,Male,31,united states,Masters,White/Caucasian
+62a34687f408bae018ed4c52,data-related roles,Yes,20000.0,finance & insurance,Python,10.0,9.0,9.0,10.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,30,mexico,Masters,Hispanic/Latino
+62a346a37dc029e2d66bfa6d,data-related roles,Yes,20000.0,technology & it,Python,7.0,8.0,6.0,5.0,5.0,9.0,Difficult,Better Salary,Male,33,mexico,Masters,Hispanic/Latino
+62a346a95d257a28a30d8cb9,data-related roles,No,75500.0,retail & consumer goods,Python,7.0,8.0,9.0,7.0,7.0,7.0,Neither easy nor difficult,Better Salary,Male,25,united states,Bachelors,White/Caucasian
+62a346b4bc6861bf3176d7ce,miscellaneous,No,20000.0,technology & it,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,23,india,Bachelors,Asian/Asian American
+62a346cef8f756164585385b,data-related roles,Yes,53000.0,entertainment & media,Other,4.0,4.0,3.0,3.0,5.0,6.0,Very Difficult,Better Salary,Male,33,united states,Bachelors,Asian/Asian American
+62a346d724a2626027383abd,business intelligence & analytics,Yes,75500.0,transportation & logistics,Python,7.0,9.0,9.0,8.0,8.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,chile,Bachelors,Hispanic/Latino
+62a346d90a77c1a77f65d08d,data-related roles,No,53000.0,consulting & professional services,Python,6.0,8.0,5.0,,6.0,9.0,Neither easy nor difficult,Remote Work,Female,42,greece,Masters,White/Caucasian
+62a34726f8d5efcc22f7dec7,data-related roles,No,75500.0,technology & it,Python,3.0,4.0,2.0,1.0,0.0,4.0,Neither easy nor difficult,Better Salary,Male,25,united states,Bachelors,White/Caucasian
+62a3476c5d257a28a30d8e6d,data-related roles,No,95500.0,manufacturing & engineering,Python,5.0,4.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,"Other (Please Specify):Different job title, either product owner or consulting",Male,23,united states,Bachelors,White/Caucasian
+62a347b4f8f7561645853a98,education & research,No,53000.0,healthcare & medical,JavaScript,2.0,4.0,6.0,5.0,3.0,4.0,Easy,Better Salary,Female,51,united states,Bachelors,Black/African American
+62a347f6b4da29969c62fb79,data-related roles,No,20000.0,technology & it,Other,1.0,4.0,4.0,3.0,2.0,6.0,Very Difficult,Better Salary,Male,30,united kingdom,Bachelors,Black/African American
+62a3483018134ddc75cea4e6,data-related roles,Yes,53000.0,finance & insurance,Python,8.0,9.0,9.0,9.0,9.0,8.0,Very Difficult,Better Salary,Male,23,india,Bachelors,Asian/Asian American
+62a348650f8c8599d5af2b77,education & research,Yes,53000.0,entertainment & media,R,3.0,5.0,5.0,6.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,24,canada,Bachelors,Asian/Asian American
+62a3489318134ddc75cea659,miscellaneous,Yes,53000.0,technology & it,Python,6.0,6.0,6.0,6.0,6.0,6.0,Easy,Good Culture,Male,25,australia,Masters,Asian/Asian American
+62a348bf2e54c9003e533634,data-related roles,Yes,53000.0,finance & insurance,Python,4.0,4.0,6.0,4.0,5.0,6.0,Difficult,Better Salary,Female,55,united states,Masters,Other
+62a348c2f3072dd892623c10,data-related roles,No,95500.0,healthcare & medical,R,8.0,10.0,8.0,7.0,8.0,10.0,Very Easy,Remote Work,Female,30,united states,Masters,White/Caucasian
+62a348f2f8d5efcc22f7e2ba,data-related roles,Yes,53000.0,consulting & professional services,Python,9.0,9.0,9.0,9.0,7.0,4.0,Difficult,Better Salary,Male,25,canada,Bachelors,Asian/Asian American
+62a349160a77c1a77f65d4db,data-related roles,Yes,75500.0,retail & consumer goods,Python,6.0,9.0,7.0,6.0,7.0,7.0,Neither easy nor difficult,Better Salary,Male,28,united states,Masters,White/Caucasian
+62a3493fb4da29969c62fe63,business intelligence & analytics,Yes,53000.0,consulting & professional services,Python,8.0,8.0,9.0,9.0,10.0,10.0,Very Easy,Better Salary,Male,34,united kingdom,Bachelors,White/Caucasian
+62a3496e575fa3a5ae88c4e6,data-related roles,Yes,20000.0,technology & it,Python,8.0,10.0,9.0,9.0,10.0,8.0,Neither easy nor difficult,Better Salary,Female,28,costa rica,Bachelors,Hispanic/Latino
+62a3498e575fa3a5ae88c554,miscellaneous,No,20000.0,manufacturing & engineering,Other,7.0,9.0,7.0,8.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,24,vietnam,Bachelors,Asian/Asian American
+62a34991b4da29969c62ff4b,miscellaneous,Yes,20000.0,healthcare & medical,Python,3.0,7.0,7.0,7.0,1.0,2.0,Difficult,Better Salary,Male,31,united states,Masters,Black/African American
+62a349bbf8f756164585400d,data-related roles,Yes,53000.0,transportation & logistics,SQL,3.0,6.0,6.0,6.0,4.0,4.0,Easy,Better Salary,Male,25,canada,Bachelors,Asian/Asian American
+62a349c7cec54911e9ca67c7,data-related roles,Yes,115500.0,finance & insurance,Python,5.0,1.0,4.0,3.0,3.0,4.0,Easy,Better Salary,Female,38,united states,Bachelors,White/Caucasian
+62a349d5d8c00e9f5419ead2,data-related roles,No,53000.0,finance & insurance,Python,5.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Good Culture,Male,30,netherlands,Bachelors,Hispanic/Latino
+62a349e6b4da29969c63000c,data-related roles,Yes,20000.0,technology & it,C/C++,0.0,0.0,0.0,2.0,2.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,india,Bachelors,Asian/Asian American
+62a34a03cec54911e9ca6869,data-related roles,Yes,20000.0,technology & it,Python,1.0,2.0,1.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Female,29,nigeria,Bachelors,Black/African American
+62a34ab15d257a28a30d9589,data-related roles,Yes,187500.0,finance & insurance,Python,7.0,5.0,3.0,6.0,4.0,4.0,Difficult,Good Work/Life Balance,Male,21,portugal,Masters,White/Caucasian
+62a34abc0f8c8599d5af31c5,data-related roles,Yes,75500.0,transportation & logistics,SQL,5.0,8.0,8.0,7.0,6.0,7.0,Very Easy,Remote Work,Female,39,united states,Bachelors,Asian/Asian American
+62a34b07cec54911e9ca6b6e,miscellaneous,No,20000.0,miscellaneous,Python,0.0,0.0,0.0,0.0,0.0,5.0,Neither easy nor difficult,Better Salary,Male,25,turkey,Bachelors,White/Caucasian
+62a34b0eb4da29969c6302ce,business intelligence & analytics,Yes,95500.0,finance & insurance,None,7.0,9.0,10.0,6.0,4.0,4.0,Neither easy nor difficult,Other (Please Specify):Opportunity for advancement ,Female,42,united states,Masters,Hispanic/Latino
+62a34b1b0f8c8599d5af328b,data-related roles,No,53000.0,technology & it,R,10.0,8.0,9.0,10.0,10.0,10.0,Easy,Better Salary,Male,25,united states,Bachelors,White/Caucasian
+62a34b5b5d257a28a30d96a6,data-related roles,No,95500.0,finance & insurance,Python,8.0,7.0,6.0,6.0,5.0,9.0,Neither easy nor difficult,Better Salary,Male,22,united states,Bachelors,White/Caucasian
+62a34b7ebae91e4b8b83076c,data-related roles,No,20000.0,consulting & professional services,Python,1.0,4.0,4.0,3.0,,5.0,Easy,Better Salary,Male,23,colombia,High School,Hispanic/Latino
+62a34b99cec54911e9ca6e14,data-related roles,Yes,53000.0,technology & it,JavaScript,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Good Culture,Male,25,egypt,High School,Middle Eastern/North African
+62a34bb0f3072dd892624210,data-related roles,Yes,75500.0,consulting & professional services,Python,5.0,7.0,7.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,45,canada,Masters,White/Caucasian
+62a34bd0cf2555431730208b,data-related roles,Yes,75500.0,healthcare & medical,SQL,7.0,3.0,8.0,6.0,8.0,8.0,Easy,Good Work/Life Balance,Male,24,united states,Bachelors,White/Caucasian
+62a34bd4f408bae018ed57bd,miscellaneous,No,20000.0,government & public sector,R,1.0,9.0,6.0,0.0,0.0,0.0,Difficult,Better Salary,Male,25,united states,,Black/African American
+62a34c66b4da29969c6305af,data-related roles,Yes,75500.0,entertainment & media,Python,9.0,8.0,9.0,9.0,8.0,8.0,Difficult,Good Work/Life Balance,Male,26,united states,Bachelors,White/Caucasian
+62a34d1ff8f756164585465c,data-related roles,No,53000.0,technology & it,R,4.0,7.0,8.0,8.0,5.0,7.0,Easy,Better Salary,Male,23,canada,Bachelors,Asian/Asian American
+62a34d4118134ddc75ceb0ed,miscellaneous,Yes,20000.0,entertainment & media,Python,1.0,1.0,1.0,0.0,0.0,3.0,Difficult,Remote Work,Female,42,united kingdom,Masters,White/Caucasian
+62a34da0f408bae018ed5abd,education & research,Yes,53000.0,education & nonprofit,None,0.0,0.0,2.0,0.0,0.0,0.0,Very Difficult,Good Work/Life Balance,Female,42,united states,Bachelors,Black/African American
+62a34dbb5d257a28a30d9a61,business intelligence & analytics,No,20000.0,technology & it,Python,0.0,6.0,5.0,5.0,3.0,1.0,Neither easy nor difficult,Better Salary,Male,25,india,Masters,Asian/Asian American
+62a34e00f8f7561645854954,data-related roles,Yes,95500.0,technology & it,R,8.0,10.0,10.0,10.0,2.0,7.0,Easy,Remote Work,Male,38,united states,Masters,White/Caucasian
+62a34e082e54c9003e534118,business intelligence & analytics,No,20000.0,technology & it,Python,5.0,6.0,6.0,6.0,6.0,4.0,Easy,Better Salary,Male,24,costa rica,Bachelors,Hispanic/Latino
+62a34eb7bc6861bf3176e6d8,data-related roles,Yes,75500.0,education & nonprofit,R,7.0,10.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Male,28,united states,Bachelors,White/Caucasian
+62a34f2af8f7561645854c1c,data-related roles,No,53000.0,healthcare & medical,Python,1.0,2.0,8.0,7.0,0.0,0.0,Difficult,Better Salary,Male,21,united states,Bachelors,Asian/Asian American
+62a34f3bf408bae018ed5e42,data-related roles,Yes,115500.0,healthcare & medical,R,10.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Good Culture,Male,39,united states,Masters,White/Caucasian
+62a34fa418134ddc75ceb509,data-related roles,Yes,20000.0,technology & it,Python,4.0,5.0,5.0,5.0,6.0,8.0,Difficult,Good Work/Life Balance,Male,23,pakistan,Bachelors,Asian/Asian American
+62a34fbacec54911e9ca776f,data-related roles,No,20000.0,government & public sector,R,1.0,6.0,4.0,3.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Female,23,australia,Bachelors,White/Caucasian
+62a34fc3f3072dd892624a45,data-related roles,Yes,75500.0,transportation & logistics,R,8.0,9.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,30,united states,Masters,White/Caucasian
+62a34ff1f408bae018ed601d,data-related roles,No,53000.0,manufacturing & engineering,Python,2.0,6.0,2.0,3.0,2.0,2.0,Easy,Better Salary,Male,26,ireland,Masters,White/Caucasian
+62a34ff4f3072dd892624b32,data-related roles,Yes,53000.0,healthcare & medical,R,3.0,6.0,4.0,6.0,4.0,6.0,Neither easy nor difficult,Better Salary,Male,37,united states,Bachelors,White/Caucasian
+62a3505bd8c00e9f5419f8df,data-related roles,Yes,75500.0,healthcare & medical,Python,3.0,5.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,31,united states,Bachelors,White/Caucasian
+62a350f7f3072dd892624d05,data-related roles,Yes,20000.0,finance & insurance,C/C++,5.0,2.0,4.0,3.0,3.0,3.0,Difficult,Good Work/Life Balance,Female,25,south africa,Bachelors,Black/African American
+62a35130f3072dd892624d9f,data-related roles,Yes,20000.0,healthcare & medical,Python,2.0,6.0,6.0,5.0,4.0,5.0,Easy,Better Salary,Female,26,poland,Bachelors,White/Caucasian
+62a351860a77c1a77f65e86b,data-related roles,Yes,75500.0,healthcare & medical,SQL,7.0,8.0,8.0,8.0,8.0,7.0,Very Easy,Better Salary,Male,30,united states,Bachelors,White/Caucasian
+62a3519b24a262602738514a,data-related roles,Yes,75500.0,technology & it,Python,9.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Better Salary,Female,39,united states,Bachelors,Black/African American
+62a35236b4da29969c631214,education & research,No,20000.0,education & nonprofit,Python,1.0,1.0,1.0,0.0,0.0,2.0,Easy,Good Work/Life Balance,Female,28,india,Masters,Asian/Asian American
+62a352a32e54c9003e534981,data-related roles,Yes,75500.0,finance & insurance,SQL,8.0,8.0,7.0,7.0,10.0,10.0,Very Easy,Good Work/Life Balance,Male,22,united states,Bachelors,Other
+62a352f00a77c1a77f65eae7,data-related roles,Yes,20000.0,technology & it,Python,3.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Good Culture,Male,28,mozambique,Bachelors,Black/African American
+62a353372e54c9003e534a40,business intelligence & analytics,No,187500.0,technology & it,R,8.0,10.0,9.0,7.0,5.0,5.0,Neither easy nor difficult,Remote Work,Male,33,united states,Masters,White/Caucasian
+62a353565d257a28a30da59f,data-related roles,Yes,20000.0,finance & insurance,SQL,2.0,3.0,3.0,3.0,2.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,22,egypt,Bachelors,Other
+62a353f07dc029e2d66c1783,miscellaneous,No,20000.0,technology & it,Python,3.0,5.0,5.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,27,india,Bachelors,Other
+62a3545e0f8c8599d5af474b,data-related roles,Yes,115500.0,consulting & professional services,DAX,8.0,8.0,8.0,8.0,10.0,10.0,Easy,Good Work/Life Balance,Male,37,united states,Bachelors,Other
+62a35472cec54911e9ca82bc,business intelligence & analytics,No,53000.0,retail & consumer goods,R,3.0,4.0,5.0,5.0,4.0,3.0,Difficult,Better Salary,Male,24,united states,Masters,White/Caucasian
+62a354bdb4da29969c631700,data-related roles,No,53000.0,healthcare & medical,R,1.0,4.0,3.0,2.0,0.0,6.0,Difficult,Better Salary,Male,25,united kingdom,Masters,Asian/Asian American
+62a354e9cf255543173031ed,data-related roles,No,95500.0,healthcare & medical,R,8.0,10.0,8.0,8.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,28,united states,Masters,Black/African American
+62a35541f3072dd892625517,data-related roles,Yes,53000.0,energy & utilities,Python,5.0,5.0,7.0,7.0,7.0,7.0,Easy,Better Salary,Male,32,united kingdom,Bachelors,White/Caucasian
+62a355445d257a28a30dab12,data-related roles,Yes,53000.0,government & public sector,Python,0.0,7.0,7.0,7.0,0.0,7.0,Easy,Good Culture,Male,29,united states,Bachelors,Asian/Asian American
+62a35631cf25554317303425,data-related roles,No,53000.0,healthcare & medical,R,7.0,5.0,8.0,6.0,5.0,10.0,Difficult,"Other (Please Specify):Want to move from Australia to Canada, so position in desired country ",Female,26,australia,Masters,White/Caucasian
+62a357390a77c1a77f65f189,data-related roles,Yes,53000.0,technology & it,Python,0.0,7.0,5.0,0.0,0.0,7.0,Neither easy nor difficult,Remote Work,Male,37,canada,Masters,White/Caucasian
+62a3578b0a77c1a77f65f279,data-related roles,No,53000.0,transportation & logistics,R,4.0,6.0,5.0,4.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,25,united states,Bachelors,White/Caucasian
+62a357d30f8c8599d5af4ea3,data-related roles,No,20000.0,finance & insurance,SQL,4.0,4.0,5.0,6.0,6.0,0.0,Difficult,Better Salary,Male,24,israel,High School,White/Caucasian
+62a3582e575fa3a5ae88e506,management & leadership,No,137500.0,finance & insurance,SQL,7.0,8.0,8.0,8.0,7.0,8.0,Easy,Better Salary,Male,52,united states,Bachelors,White/Caucasian
+62a35878575fa3a5ae88e5d5,data-related roles,Yes,53000.0,finance & insurance,Python,6.0,10.0,3.0,5.0,0.0,10.0,Difficult,Good Culture,Male,27,singapore,Bachelors,Asian/Asian American
+62a35981bae91e4b8b8323dd,data-related roles,No,115500.0,healthcare & medical,Other,6.0,6.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Better Salary,Female,29,united states,Masters,White/Caucasian
+62a35a2c7dc029e2d66c2519,miscellaneous,No,20000.0,technology & it,Python,3.0,7.0,6.0,7.0,0.0,0.0,Difficult,Better Salary,Male,42,brazil,Associates,White/Caucasian
+62a35aa2f8d5efcc22f8075d,data-related roles,Yes,53000.0,technology & it,R,3.0,5.0,6.0,4.0,3.0,7.0,Difficult,Other (Please Specify):All of the options are important to me when looking for a new job,Male,28,united states,Masters,White/Caucasian
+62a35ababae91e4b8b83269d,data-related roles,Yes,20000.0,technology & it,Python,8.0,8.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Male,44,costa rica,Bachelors,Hispanic/Latino
+62a35ae0575fa3a5ae88ea98,data-related roles,Yes,20000.0,technology & it,Python,5.0,5.0,6.0,5.0,6.0,7.0,Neither easy nor difficult,Remote Work,Male,23,spain,Bachelors,White/Caucasian
+62a35ae87dc029e2d66c279b,data-related roles,No,53000.0,entertainment & media,R,1.0,2.0,6.0,4.0,2.0,0.0,Easy,Better Salary,Male,27,united states,Bachelors,Hispanic/Latino
+62a35b13bc6861bf31770188,data-related roles,No,75500.0,real estate & construction,Python,3.0,3.0,3.0,2.0,2.0,1.0,Neither easy nor difficult,Good Culture,Male,26,united states,Masters,White/Caucasian
+62a35b72f408bae018ed76a8,data-related roles,Yes,95500.0,healthcare & medical,Other,3.0,4.0,4.0,4.0,1.0,3.0,Neither easy nor difficult,Better Salary,Male,27,united states,Masters,Hispanic/Latino
+62a35b965d257a28a30db899,data-related roles,Yes,75500.0,retail & consumer goods,Python,0.0,0.0,7.0,1.0,0.0,9.0,Difficult,Better Salary,Male,33,canada,Bachelors,Asian/Asian American
+62a35ba3f3072dd892626068,data-related roles,Yes,75500.0,manufacturing & engineering,Python,8.0,10.0,10.0,10.0,10.0,10.0,Easy,Better Salary,Male,28,united states,Bachelors,Hispanic/Latino
+62a35c890a77c1a77f65fdfa,data-related roles,Yes,20000.0,technology & it,R,2.0,8.0,8.0,7.0,6.0,9.0,Neither easy nor difficult,Better Salary,Male,32,kenya,Bachelors,Black/African American
+62a35d8f575fa3a5ae88efd6,miscellaneous,Yes,53000.0,food & beverage,Python,2.0,4.0,6.0,1.0,1.0,1.0,Very Difficult,Better Salary,Male,34,canada,Associates,Asian/Asian American
+62a35d95cf25554317304386,data-related roles,No,187500.0,technology & it,Python,10.0,10.0,10.0,8.0,10.0,10.0,Easy,Good Work/Life Balance,Male,28,united states,Bachelors,Asian/Asian American
+62a35e970a77c1a77f66035a,data-related roles,Yes,137500.0,technology & it,Python,2.0,4.0,1.0,3.0,1.0,7.0,Neither easy nor difficult,Better Salary,Male,27,india,Bachelors,Asian/Asian American
+62a35eabf408bae018ed7cbc,data-related roles,Yes,53000.0,finance & insurance,Python,2.0,4.0,5.0,5.0,4.0,6.0,Difficult,Better Salary,Male,22,united states,Bachelors,White/Caucasian
+62a35f0d24a2626027386a8b,data-related roles,No,75500.0,healthcare & medical,Python,3.0,3.0,4.0,1.0,2.0,2.0,Neither easy nor difficult,Better Salary,Male,29,united states,Masters,White/Caucasian
+62a35f825d257a28a30dc128,data-related roles,No,75500.0,healthcare & medical,Python,8.0,10.0,10.0,8.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Female,31,united states,Masters,White/Caucasian
+62a35fa0f8f7561645856c35,data-related roles,No,75500.0,technology & it,Python,4.0,5.0,5.0,5.0,4.0,4.0,Easy,Remote Work,Male,28,united states,Bachelors,White/Caucasian
+62a35fc1f8f7561645856c98,miscellaneous,No,20000.0,healthcare & medical,Python,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,united states,Masters,Asian/Asian American
+62a3602318134ddc75ced6b9,data-related roles,No,95500.0,government & public sector,Other,4.0,5.0,3.0,4.0,2.0,3.0,Easy,Good Culture,Male,34,united states,Masters,White/Caucasian
+62a360b8f8f7561645856ec4,data-related roles,No,95500.0,technology & it,Python,5.0,3.0,5.0,5.0,4.0,5.0,Difficult,Better Salary,Male,23,united states,Bachelors,White/Caucasian
+62a360dbd8c00e9f541a16cf,miscellaneous,No,53000.0,real estate & construction,Excel,10.0,4.0,10.0,10.0,4.0,10.0,Neither easy nor difficult,Remote Work,Male,32,belgium,Masters,White/Caucasian
+62a36146f8f7561645856ff7,data-related roles,Yes,20000.0,healthcare & medical,R,6.0,8.0,6.0,6.0,8.0,10.0,Easy,Remote Work,Male,29,argentina,High School,Hispanic/Latino
+62a361af0f8c8599d5af6277,data-related roles,Yes,20000.0,education & nonprofit,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,34,nigeria,Bachelors,Black/African American
+62a361cc575fa3a5ae88f908,data-related roles,No,75500.0,finance & insurance,Python,7.0,5.0,5.0,7.0,9.0,10.0,Very Easy,Remote Work,Male,24,united kingdom,Bachelors,White/Caucasian
+62a3620f0f8c8599d5af63a5,business intelligence & analytics,No,75500.0,technology & it,Python,0.0,10.0,6.0,0.0,0.0,0.0,Difficult,Better Salary,Male,30,united states,Bachelors,Asian/Asian American
+62a36251d8c00e9f541a199e,business intelligence & analytics,No,95500.0,entertainment & media,Python,5.0,5.0,6.0,4.0,5.0,5.0,Difficult,Better Salary,Male,24,united states,Masters,Hispanic/Latino
+62a36275bc6861bf31771183,data-related roles,Yes,53000.0,finance & insurance,Python,6.0,8.0,10.0,9.0,7.0,9.0,Easy,Better Salary,Male,27,united states,Bachelors,Other
+62a3636c2e54c9003e536e6b,data-related roles,No,20000.0,finance & insurance,Python,1.0,2.0,4.0,4.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,21,india,Bachelors,Asian/Asian American
+62a365c2f8d5efcc22f81e2e,data-related roles,No,20000.0,transportation & logistics,Python,3.0,5.0,9.0,9.0,,8.0,Very Difficult,Other (Please Specify):Both Good work / life Balance and Good Culture,Male,31,united arab emirates,Masters,Black/African American
+62a365d5d8c00e9f541a20cf,data-related roles,Yes,20000.0,technology & it,R,5.0,7.0,5.0,5.0,5.0,7.0,Difficult,Better Salary,Male,41,egypt,Bachelors,White/Caucasian
+62a3670b575fa3a5ae890422,data-related roles,Yes,20000.0,technology & it,Python,0.0,1.0,1.0,0.0,0.0,2.0,Difficult,Better Salary,Male,25,india,Bachelors,Asian/Asian American
+62a3676bb4da29969c633ac7,data-related roles,No,20000.0,finance & insurance,None,4.0,7.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Other (Please Specify):an environment that encourages growth like where I work currently and better salary ,Male,24,nigeria,Bachelors,Black/African American
+62a36794b4da29969c633b48,data-related roles,No,20000.0,finance & insurance,Python,6.0,5.0,6.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,30,somalia,Masters,Black/African American
+62a367d224a2626027387b56,data-related roles,No,187500.0,finance & insurance,Other,7.0,7.0,7.0,,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,33,united states,Bachelors,White/Caucasian
+62a367ed18134ddc75cee697,data-related roles,No,75500.0,energy & utilities,Other,7.0,4.0,10.0,9.0,7.0,10.0,Difficult,Better Salary,Male,23,united states,Bachelors,Hispanic/Latino
+62a36802f8f7561645857e38,data-related roles,Yes,75500.0,technology & it,Python,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote Work,Female,33,united kingdom,Masters,Asian/Asian American
+62a3684ebc6861bf31771f15,data-related roles,No,115500.0,finance & insurance,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,25,united states,Bachelors,White/Caucasian
+62a3688df8f7561645857f7e,data-related roles,No,20000.0,consulting & professional services,Python,5.0,5.0,5.0,5.0,5.0,5.0,Neither easy nor difficult,Remote Work,Female,27,kosovo,Masters,White/Caucasian
+62a368ee2e54c9003e537e4a,data-related roles,Yes,20000.0,finance & insurance,C/C++,5.0,10.0,10.0,8.0,10.0,10.0,Very Easy,Good Work/Life Balance,Male,30,united kingdom,Bachelors,White/Caucasian
+62a369280a77c1a77f661ad0,data-related roles,Yes,20000.0,technology & it,Python,0.0,3.0,,,,6.0,Neither easy nor difficult,Remote Work,Male,29,nigeria,Bachelors,Black/African American
+62a36969f8f756164585821d,business intelligence & analytics,Yes,20000.0,healthcare & medical,Python,10.0,2.0,8.0,5.0,0.0,6.0,Easy,Better Salary,Male,25,india,Masters,Asian/Asian American
+62a3697ff408bae018ed948b,data-related roles,No,95500.0,technology & it,None,7.0,7.0,5.0,7.0,7.0,7.0,Easy,Remote Work,Male,40,united states,High School,Hispanic/Latino
+62a36ac6cf255543173063d8,data-related roles,No,53000.0,government & public sector,Other,6.0,10.0,8.0,8.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,29,canada,Bachelors,Other
+62a36ad1f408bae018ed9793,data-related roles,No,53000.0,miscellaneous,Python,0.0,3.0,3.0,3.0,3.0,,Difficult,Remote Work,Male,29,india,Masters,Asian/Asian American
+62a36b6c24a26260273882a2,data-related roles,Yes,20000.0,education & nonprofit,Python,1.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,28,nigeria,Masters,Black/African American
+62a36b862e54c9003e5383c6,software development & it,No,95500.0,entertainment & media,C/C++,5.0,2.0,0.0,2.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,34,united kingdom,Bachelors,White/Caucasian
+62a36d12f8d5efcc22f82cd8,miscellaneous,No,20000.0,technology & it,Python,0.0,4.0,7.0,6.0,7.0,8.0,Easy,Other (Please Specify):Learning possibilities,Male,24,belgium,Masters,White/Caucasian
+62a36d3124a262602738862c,data-related roles,Yes,20000.0,technology & it,Python,5.0,8.0,8.0,9.0,7.0,9.0,Very Easy,Better Salary,Male,26,iraq,Bachelors,Middle Eastern/North African
+62a36e470a77c1a77f662470,data-related roles,No,137500.0,technology & it,Python,10.0,5.0,10.0,10.0,6.0,10.0,Difficult,Good Work/Life Balance,Male,28,united states,Bachelors,Hispanic/Latino
+62a36e7024a262602738890a,miscellaneous,No,20000.0,education & nonprofit,R,5.0,4.0,4.0,4.0,5.0,5.0,Difficult,Good Work/Life Balance,Male,25,germany,Masters,White/Caucasian
+62a36fe67dc029e2d66c5303,data-related roles,Yes,20000.0,technology & it,Python,1.0,4.0,9.0,7.0,8.0,10.0,Easy,Better Salary,Male,33,colombia,Bachelors,Hispanic/Latino
+62a3701f575fa3a5ae89164e,data-related roles,Yes,75500.0,finance & insurance,Python,4.0,4.0,6.0,3.0,4.0,0.0,Neither easy nor difficult,Remote Work,Male,30,ireland,Masters,White/Caucasian
+62a370635d257a28a30de5eb,data-related roles,Yes,20000.0,finance & insurance,Python,1.0,1.0,1.0,1.0,1.0,1.0,Very Difficult,Better Salary,Male,35,india,Bachelors,Asian/Asian American
+62a37128d8c00e9f541a39dd,data-related roles,No,20000.0,manufacturing & engineering,None,5.0,2.0,5.0,5.0,3.0,4.0,Difficult,Better Salary,Male,25,romania,Bachelors,White/Caucasian
+62a3715124a2626027388f02,data-related roles,No,20000.0,real estate & construction,Python,4.0,7.0,9.0,5.0,2.0,8.0,Easy,Better Salary,Male,23,spain,Bachelors,White/Caucasian
+62a37222cf2555431730732d,data-related roles,No,20000.0,healthcare & medical,Python,6.0,6.0,6.0,5.0,4.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,mexico,Bachelors,Hispanic/Latino
+62a373efbc6861bf3177360b,data-related roles,Yes,187500.0,education & nonprofit,SQL,8.0,9.0,9.0,7.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,27,united states,Masters,Black/African American
+62a3759e5d257a28a30def3a,data-related roles,Yes,75500.0,manufacturing & engineering,Python,4.0,10.0,10.0,8.0,5.0,6.0,Neither easy nor difficult,Remote Work,Male,32,united states,Bachelors,Asian/Asian American
+62a3777624a262602738997e,data-related roles,Yes,53000.0,technology & it,Python,3.0,5.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,50,canada,Bachelors,White/Caucasian
+62a377987dc029e2d66c638d,data-related roles,Yes,75500.0,food & beverage,Python,7.0,7.0,8.0,9.0,10.0,10.0,Neither easy nor difficult,Remote Work,Male,29,united states,High School,White/Caucasian
+62a377f424a2626027389af3,data-related roles,Yes,20000.0,technology & it,R,2.0,8.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,41,peru,Bachelors,Hispanic/Latino
+62a3784c0f8c8599d5af8fbc,data-related roles,No,20000.0,energy & utilities,R,1.0,7.0,7.0,1.0,4.0,10.0,Neither easy nor difficult,Better Salary,Male,23,united states,Associates,White/Caucasian
+62a37a43d8c00e9f541a4a7c,data-related roles,Yes,20000.0,finance & insurance,Python,4.0,7.0,8.0,7.0,8.0,8.0,Difficult,Better Salary,Male,31,nigeria,Bachelors,Black/African American
+62a37a7818134ddc75cf0d4c,data-related roles,No,20000.0,healthcare & medical,Python,0.0,10.0,10.0,10.0,10.0,10.0,Difficult,Better Salary,Male,22,philippines,Bachelors,Other
+62a37aa1cf255543173081e5,data-related roles,No,75500.0,finance & insurance,Python,3.0,5.0,5.0,5.0,3.0,3.0,Very Difficult,Better Salary,Male,29,united states,Masters,Hispanic/Latino
+62a37ad924a2626027389f8a,data-related roles,Yes,20000.0,technology & it,Python,4.0,4.0,4.0,0.0,0.0,6.0,Difficult,Good Culture,Male,23,malaysia,Bachelors,Asian/Asian American
+62a37b7db4da29969c636123,miscellaneous,No,20000.0,consulting & professional services,Other,0.0,0.0,1.0,1.0,0.0,1.0,Neither easy nor difficult,Remote Work,Female,24,united states,High School,Hispanic/Latino
+62a37bab2e54c9003e53a10a,data-related roles,Yes,75500.0,manufacturing & engineering,Python,5.0,9.0,10.0,10.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,26,united states,Bachelors,Black/African American
+62a37c50cec54911e9cacee2,miscellaneous,Yes,20000.0,finance & insurance,Python,4.0,3.0,5.0,2.0,2.0,3.0,Difficult,Good Culture,Male,31,india,Bachelors,Asian/Asian American
+62a37d41bae91e4b8b8369f7,data-related roles,Yes,20000.0,entertainment & media,Python,1.0,1.0,1.0,1.0,7.0,9.0,Neither easy nor difficult,Remote Work,Male,22,nigeria,Bachelors,Black/African American
+62a37f8db4da29969c6367bf,data-related roles,Yes,75500.0,retail & consumer goods,Python,7.0,8.0,10.0,8.0,7.0,5.0,Neither easy nor difficult,Remote Work,Male,31,germany,Bachelors,White/Caucasian
+62a37ff3bae91e4b8b836ed0,miscellaneous,Yes,20000.0,technology & it,Python,0.0,4.0,0.0,0.0,4.0,5.0,Neither easy nor difficult,Better Salary,Male,27,united states,Masters,Asian/Asian American
+62a38023575fa3a5ae89339e,miscellaneous,No,20000.0,education & nonprofit,Python,1.0,1.0,2.0,1.0,1.0,1.0,Difficult,Better Salary,Female,25,united states,Bachelors,Asian/Asian American
+62a38153cec54911e9cad855,data-related roles,Yes,20000.0,healthcare & medical,Python,4.0,10.0,10.0,8.0,8.0,10.0,Easy,Good Work/Life Balance,Male,30,colombia,Masters,Hispanic/Latino
+62a381d024a262602738ab19,data-related roles,Yes,53000.0,healthcare & medical,R,0.0,6.0,5.0,6.0,0.0,2.0,Easy,Other (Please Specify):Opportunities for growth ,Male,28,united states,Masters,Hispanic/Latino
+62a38227bae91e4b8b837235,data-related roles,No,137500.0,finance & insurance,Python,6.0,6.0,5.0,4.0,2.0,4.0,Easy,Remote Work,Male,26,united states,Bachelors,White/Caucasian
+62a38489cf25554317309145,data-related roles,Yes,137500.0,retail & consumer goods,Python,6.0,7.0,7.0,10.0,6.0,7.0,Neither easy nor difficult,Remote Work,Female,32,united states,Masters,White/Caucasian
+62a384f0cec54911e9cadd6f,data-related roles,Yes,20000.0,entertainment & media,SQL,3.0,5.0,6.0,4.0,6.0,6.0,Neither easy nor difficult,Better Salary,Female,40,poland,PhD,White/Caucasian
+62a385480f8c8599d5afa5c6,data-related roles,Yes,20000.0,manufacturing & engineering,Python,4.0,7.0,7.0,6.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,36,singapore,Associates,Asian/Asian American
+62a3856218134ddc75cf1ee0,data-related roles,Yes,75500.0,finance & insurance,Python,6.0,10.0,9.0,9.0,9.0,10.0,Difficult,Better Salary,Male,35,united states,Bachelors,Hispanic/Latino
+62a385c40f8c8599d5afa6cf,data-related roles,Yes,75500.0,technology & it,Python,3.0,4.0,4.0,4.0,5.0,5.0,Very Difficult,Good Work/Life Balance,Male,29,united states,Masters,Asian/Asian American
+62a385ddbae91e4b8b837855,data-related roles,No,53000.0,finance & insurance,Python,6.0,5.0,9.0,9.0,7.0,5.0,Neither easy nor difficult,"Other (Please Specify):I just started and I don't like programming so much, so I would search for a more ""impactiful"" role. Meaning: being able to take decisions that steer the business.",Female,25,germany,Masters,Hispanic/Latino
+62a385e7b4da29969c6372ab,data-related roles,Yes,53000.0,entertainment & media,Python,6.0,8.0,8.0,9.0,6.0,8.0,Difficult,Remote Work,Male,29,united states,Bachelors,White/Caucasian
+62a386dfcec54911e9cae1d3,data-related roles,No,95500.0,food & beverage,Python,7.0,6.0,7.0,4.0,5.0,8.0,Difficult,Good Work/Life Balance,Male,26,united states,Bachelors,Black/African American
+62a3870bbc6861bf31775841,data-related roles,No,20000.0,entertainment & media,R,1.0,1.0,1.0,1.0,1.0,1.0,Neither easy nor difficult,Remote Work,Male,34,ghana,Bachelors,Black/African American
+62a38733f8d5efcc22f859fc,data-related roles,Yes,20000.0,finance & insurance,Python,5.0,2.0,5.0,4.0,3.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,egypt,Bachelors,White/Caucasian
+62a387e6575fa3a5ae8940a1,data-related roles,No,20000.0,technology & it,Python,3.0,3.0,5.0,4.0,3.0,2.0,Difficult,Other (Please Specify):Good opportunities in projects and learnjng,Female,22,india,Bachelors,Asian/Asian American
+62a388d524a262602738b869,miscellaneous,Yes,20000.0,real estate & construction,Python,0.0,2.0,0.0,1.0,1.0,2.0,Very Difficult,Remote Work,Female,24,kenya,Bachelors,Black/African American
+62a38975b4da29969c637830,data-related roles,No,20000.0,healthcare & medical,Python,3.0,6.0,6.0,6.0,4.0,3.0,Neither easy nor difficult,Better Salary,Male,26,costa rica,Bachelors,Hispanic/Latino
+62a38985f8f756164585b89c,data-related roles,Yes,20000.0,finance & insurance,Python,5.0,6.0,2.0,3.0,3.0,5.0,Very Difficult,Good Work/Life Balance,Female,34,portugal,Masters,White/Caucasian
+62a389b70f8c8599d5afad1a,data-related roles,No,20000.0,technology & it,Python,3.0,5.0,4.0,5.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,29,india,Bachelors,Asian/Asian American
+62a389ed18134ddc75cf24f8,data-related roles,No,20000.0,technology & it,R,2.0,7.0,7.0,7.0,7.0,7.0,Easy,Better Salary,Male,21,nigeria,Bachelors,Black/African American
+62a38a060a77c1a77f6654b7,finance & accounting,No,20000.0,miscellaneous,Python,2.0,4.0,5.0,3.0,1.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,macedonia,Masters,White/Caucasian
+62a38a4d575fa3a5ae8944df,data-related roles,No,53000.0,education & nonprofit,Python,7.0,7.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,united states,Bachelors,Black/African American
+62a38a97cf25554317309af2,data-related roles,Yes,53000.0,transportation & logistics,Python,2.0,4.0,7.0,10.0,5.0,10.0,Neither easy nor difficult,Remote Work,Male,28,united states,Bachelors,White/Caucasian
+62a38c120f8c8599d5afb0e9,data-related roles,No,53000.0,education & nonprofit,Python,1.0,5.0,5.0,1.0,0.0,3.0,Easy,Better Salary,Female,33,united states,Bachelors,White/Caucasian
+62a38c9dbc6861bf317760c4,data-related roles,Yes,75500.0,consulting & professional services,SQL,7.0,6.0,5.0,7.0,4.0,4.0,Easy,Better Salary,Female,56,united states,Bachelors,White/Caucasian
+62a38de50f8c8599d5afb3e7,software development & it,No,20000.0,finance & insurance,Python,3.0,3.0,6.0,5.0,,4.0,Difficult,Good Work/Life Balance,Male,23,india,Bachelors,Asian/Asian American
+62a3906224a262602738c58a,data-related roles,Yes,137500.0,healthcare & medical,Python,4.0,5.0,5.0,5.0,4.0,5.0,Difficult,Better Salary,Male,28,united states,Masters,White/Caucasian
+62a3907cbae91e4b8b838917,miscellaneous,No,20000.0,miscellaneous,JavaScript,0.0,0.0,0.0,0.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,21,egypt,High School,White/Caucasian
+62a390c0d8c00e9f541a6fd7,miscellaneous,No,75500.0,education & nonprofit,Python,2.0,2.0,4.0,1.0,2.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,united states,Masters,Black/African American
+62a390e4f3072dd89262c0cd,data-related roles,No,53000.0,healthcare & medical,Python,7.0,5.0,9.0,9.0,9.0,8.0,Neither easy nor difficult,Remote Work,Male,29,ireland,Masters,Asian/Asian American
+62a391cacf2555431730a623,data-related roles,No,95500.0,technology & it,Python,9.0,10.0,8.0,8.0,7.0,7.0,Neither easy nor difficult,Other (Please Specify):Projects I’m interested in,Female,23,united states,Bachelors,Asian/Asian American
+62a39214f8f756164585c6b6,miscellaneous,No,53000.0,finance & insurance,Python,3.0,3.0,3.0,0.0,0.0,1.0,Difficult,Good Work/Life Balance,Male,25,india,Bachelors,Asian/Asian American
+62a39297b4da29969c638679,data-related roles,Yes,95500.0,technology & it,Python,8.0,7.0,10.0,9.0,10.0,10.0,Easy,Better Salary,Male,27,united states,Masters,White/Caucasian
+62a393330a77c1a77f6662e4,data-related roles,No,20000.0,technology & it,Python,3.0,8.0,7.0,5.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,22,india,Bachelors,Asian/Asian American
+62a3944024a262602738cb07,data-related roles,Yes,20000.0,technology & it,Python,6.0,3.0,5.0,7.0,5.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,india,Bachelors,Asian/Asian American
+62a3951ed8c00e9f541a75d1,miscellaneous,No,115500.0,miscellaneous,Other,7.0,7.0,4.0,5.0,5.0,4.0,Neither easy nor difficult,Better Salary,Male,43,united states,Masters,Asian/Asian American
+62a3958fcec54911e9caf827,miscellaneous,Yes,20000.0,technology & it,Python,3.0,5.0,8.0,4.0,5.0,5.0,Difficult,Better Salary,Female,32,united states,Bachelors,Asian/Asian American
+62a3970ebae91e4b8b839495,miscellaneous,Yes,75500.0,healthcare & medical,Other,,,,,,0.0,Difficult,Good Work/Life Balance,Female,42,united states,Masters,Asian/Asian American
+62a3976ecf2555431730af5e,finance & accounting,No,75500.0,miscellaneous,Python,4.0,6.0,2.0,3.0,3.0,2.0,Very Difficult,Remote Work,Male,31,united states,Bachelors,Hispanic/Latino
+62a397fb5d257a28a30e279a,data-related roles,No,20000.0,entertainment & media,Python,0.0,10.0,10.0,5.0,0.0,3.0,Neither easy nor difficult,Better Salary,Male,25,united kingdom,Bachelors,White/Caucasian
+62a3980c7dc029e2d66c9a81,data-related roles,No,53000.0,food & beverage,SQL,3.0,5.0,5.0,5.0,3.0,2.0,Neither easy nor difficult,Better Salary,Female,25,united states,Masters,Asian/Asian American
+62a3980e0f8c8599d5afc32c,data-related roles,Yes,115500.0,transportation & logistics,Other,9.0,9.0,9.0,6.0,9.0,8.0,Difficult,Good Work/Life Balance,Male,31,united states,Masters,Asian/Asian American
+62a39a340f8c8599d5afc6ce,data-related roles,Yes,20000.0,education & nonprofit,Python,3.0,3.0,1.0,1.0,1.0,6.0,Difficult,Better Salary,Male,36,morocco,Masters,White/Caucasian
+62a39a95bc6861bf3177751d,miscellaneous,No,53000.0,healthcare & medical,Python,6.0,8.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,bulgaria,Masters,White/Caucasian
+62a39b315d257a28a30e2cae,data-related roles,Yes,75500.0,energy & utilities,R,6.0,10.0,10.0,10.0,9.0,8.0,Easy,Remote Work,Male,28,united states,Bachelors,White/Caucasian
+62a39b6cf408bae018ede929,data-related roles,No,20000.0,finance & insurance,Python,8.0,8.0,9.0,9.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,27,peru,Bachelors,Hispanic/Latino
+62a39bd324a262602738d725,data-related roles,Yes,20000.0,entertainment & media,Python,7.0,4.0,7.0,4.0,8.0,10.0,Easy,Good Work/Life Balance,Male,25,costa rica,Bachelors,Hispanic/Latino
+62a39e03f408bae018eded39,data-related roles,No,20000.0,technology & it,Python,6.0,6.0,10.0,8.0,6.0,8.0,Neither easy nor difficult,Better Salary,Male,25,poland,Bachelors,White/Caucasian
+62a39e69d8c00e9f541a8358,business intelligence & analytics,No,53000.0,entertainment & media,R,5.0,5.0,5.0,5.0,5.0,5.0,Difficult,Good Work/Life Balance,Male,22,united states,Masters,White/Caucasian
+62a3a0bcf8f756164585daf7,data-related roles,Yes,53000.0,healthcare & medical,None,7.0,8.0,8.0,4.0,6.0,8.0,Neither easy nor difficult,Good Culture,Male,38,germany,High School,White/Caucasian
+62a3a1a62e54c9003e53dc35,data-related roles,Yes,20000.0,education & nonprofit,Python,0.0,0.0,5.0,0.0,0.0,0.0,Difficult,Good Culture,Male,27,kenya,Bachelors,Black/African American
+62a3a231b4da29969c639b2c,data-related roles,Yes,95500.0,consulting & professional services,None,4.0,4.0,2.0,2.0,2.0,2.0,Easy,Remote Work,Female,34,canada,Bachelors,Black/African American
+62a3a3800f8c8599d5afd4db,data-related roles,Yes,75500.0,education & nonprofit,Python,9.0,10.0,10.0,9.0,8.0,10.0,Difficult,Better Salary,Female,31,united states,Bachelors,White/Caucasian
+62a3a4fdbae91e4b8b83ab6f,data-related roles,Yes,53000.0,technology & it,Python,4.0,9.0,8.0,8.0,6.0,10.0,Neither easy nor difficult,Better Salary,Female,33,canada,Masters,Black/African American
+62a3a7f50a77c1a77f668221,miscellaneous,Yes,20000.0,technology & it,Python,2.0,5.0,5.0,5.0,5.0,5.0,Very Difficult,Remote Work,Male,23,united states,Bachelors,Asian/Asian American
+62a3a90f24a262602738e800,data-related roles,Yes,53000.0,healthcare & medical,Excel,3.0,10.0,9.0,10.0,5.0,0.0,Neither easy nor difficult,Better Salary,Female,25,united states,Bachelors,Asian/Asian American
+62a3a9dbd8c00e9f541a93eb,data-related roles,Yes,20000.0,technology & it,Python,4.0,4.0,4.0,5.0,2.0,1.0,Difficult,Better Salary,Male,29,iran,Masters,White/Caucasian
+62a3aaa3cec54911e9cb1724,business intelligence & analytics,Yes,53000.0,healthcare & medical,R,5.0,7.0,9.0,8.0,8.0,8.0,Neither easy nor difficult,Better Salary,Female,29,united states,Masters,Black/African American
+62a3ab320f8c8599d5afdfa8,data-related roles,Yes,20000.0,technology & it,R,3.0,4.0,4.0,4.0,4.0,2.0,Easy,Better Salary,Male,31,india,Masters,Asian/Asian American
+62a3abacd8c00e9f541a96eb,miscellaneous,No,20000.0,real estate & construction,R,0.0,5.0,0.0,0.0,0.0,0.0,Very Difficult,Remote Work,Male,34,south africa,High School,Black/African American
+62a3ac4bf8f756164585ea83,data-related roles,Yes,20000.0,technology & it,Python,3.0,2.0,4.0,3.0,7.0,8.0,Easy,Good Work/Life Balance,Male,26,bangladesh,Bachelors,Asian/Asian American
+62a3ad35cec54911e9cb1b5c,data-related roles,No,95500.0,healthcare & medical,Python,4.0,6.0,5.0,6.0,6.0,4.0,Neither easy nor difficult,Remote Work,Female,26,united states,Bachelors,White/Caucasian
+62a3ae69bc6861bf3177900d,management & leadership,Yes,53000.0,government & public sector,DAX,3.0,6.0,9.0,6.0,5.0,10.0,Difficult,Other (Please Specify):Mentorship from leading Data Analyst,Male,27,united states,Masters,Black/African American
+62a3af26cec54911e9cb1f3a,data-related roles,Yes,75500.0,transportation & logistics,Python,8.0,5.0,9.0,6.0,6.0,10.0,Neither easy nor difficult,Remote Work,Male,26,united states,Bachelors,White/Caucasian
+62a3af66f8f756164585eeb8,miscellaneous,Yes,20000.0,technology & it,Python,4.0,5.0,4.0,4.0,3.0,4.0,Very Difficult,Better Salary,Female,26,united states,Masters,Asian/Asian American
+62a3b135b4da29969c63b1ed,data-related roles,Yes,53000.0,finance & insurance,R,2.0,5.0,5.0,5.0,4.0,5.0,Easy,Better Salary,Male,24,united states,Bachelors,White/Caucasian
+62a3b255d8c00e9f541a9fd5,data-related roles,Yes,95500.0,retail & consumer goods,Python,4.0,6.0,3.0,4.0,4.0,2.0,Easy,Better Salary,Female,28,ireland,Masters,Asian/Asian American
+62a3b314f408bae018ee0938,data-related roles,Yes,115500.0,manufacturing & engineering,R,8.0,8.0,10.0,9.0,7.0,5.0,Easy,Better Salary,Male,29,united states,Bachelors,White/Caucasian
+62a3b3f6bc6861bf3177973b,data-related roles,Yes,75500.0,finance & insurance,Python,3.0,2.0,1.0,1.0,0.0,2.0,Very Difficult,Better Salary,Female,26,united states,Masters,Asian/Asian American
+62a3ba4dbc6861bf31779f24,data-related roles,Yes,53000.0,manufacturing & engineering,Python,3.0,5.0,3.0,3.0,1.0,1.0,Neither easy nor difficult,Better Salary,Male,28,united kingdom,Bachelors,White/Caucasian
+62a3baa624a262602738ff27,data-related roles,No,20000.0,finance & insurance,Python,6.0,8.0,7.0,6.0,2.0,4.0,Easy,Other (Please Specify):Intresting work,Male,25,france,Masters,White/Caucasian
+62a3bc00d8c00e9f541aad66,data-related roles,Yes,75500.0,finance & insurance,R,5.0,7.0,7.0,3.0,7.0,9.0,Difficult,Better Salary,Female,26,united states,Bachelors,Asian/Asian American
+62a3bf1b0a77c1a77f66a347,data-related roles,Yes,137500.0,healthcare & medical,Python,6.0,3.0,9.0,5.0,8.0,8.0,Neither easy nor difficult,Remote Work,Female,38,united states,Masters,White/Caucasian
+62a3c021f8f756164586043f,miscellaneous,Yes,20000.0,education & nonprofit,SQL,0.0,3.0,3.0,3.0,4.0,4.0,Neither easy nor difficult,Better Salary,Female,20,nigeria,High School,Black/African American
+62a3c1b1bc6861bf3177aa8c,data-related roles,No,75500.0,education & nonprofit,SQL,4.0,6.0,7.0,7.0,2.0,2.0,Neither easy nor difficult,Remote Work,Female,45,united states,Masters,Black/African American
+62a3c30324a26260273909b9,data-related roles,No,95500.0,entertainment & media,Python,5.0,3.0,5.0,6.0,6.0,4.0,Difficult,Good Work/Life Balance,Male,27,canada,Masters,Asian/Asian American
+62a3c476bc6861bf3177ad9d,data-related roles,Yes,53000.0,consulting & professional services,Python,3.0,7.0,7.0,7.0,7.0,6.0,Difficult,Good Culture,Male,28,canada,Masters,Asian/Asian American
+62a3c5f2cec54911e9cb3d9b,miscellaneous,Yes,20000.0,education & nonprofit,R,2.0,10.0,10.0,10.0,10.0,3.0,Neither easy nor difficult,Remote Work,Female,29,germany,Bachelors,White/Caucasian
+62a3c7f1bc6861bf3177b06e,management & leadership,No,53000.0,technology & it,C/C++,7.0,7.0,7.0,7.0,7.0,7.0,Neither easy nor difficult,Better Salary,Female,43,singapore,High School,Asian/Asian American
+62a3c8652e54c9003e54103e,data-related roles,Yes,20000.0,finance & insurance,Python,0.0,5.0,9.0,9.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,26,antigua and barbuda,Bachelors,Black/African American
+62a3ca44bae91e4b8b83dcd4,miscellaneous,No,53000.0,technology & it,SQL,7.0,8.0,7.0,7.0,8.0,7.0,Neither easy nor difficult,"Other (Please Specify):Mix of better salary, good work/life balance, remote work and good culture",Female,47,united states,Bachelors,Black/African American
+62a3cafff8d5efcc22f8b5cb,miscellaneous,Yes,20000.0,finance & insurance,Python,,,,8.0,10.0,10.0,Easy,Remote Work,Male,23,nigeria,Bachelors,Black/African American
+62a3cbfef8d5efcc22f8b6f1,data-related roles,Yes,20000.0,technology & it,Python,0.0,1.0,1.0,1.0,1.0,2.0,Very Difficult,Better Salary,Male,25,egypt,Bachelors,Other
+62a3cde8f8f7561645861366,software development & it,No,20000.0,finance & insurance,Python,6.0,6.0,3.0,7.0,2.0,4.0,Very Difficult,Other (Please Specify):Learning opportunity,Male,32,poland,Masters,White/Caucasian
+62a3cfed0f8c8599d5b00b12,data-related roles,Yes,20000.0,finance & insurance,Python,1.0,10.0,10.0,5.0,3.0,1.0,Neither easy nor difficult,Better Salary,Female,25,united states,Bachelors,White/Caucasian
+62a3d21ef3072dd8926314d1,data-related roles,No,20000.0,finance & insurance,Python,1.0,2.0,10.0,1.0,2.0,8.0,Difficult,Remote Work,Female,29,venezuela,Bachelors,Hispanic/Latino
+62a3d37c0a77c1a77f66bc0e,data-related roles,No,53000.0,healthcare & medical,SQL,3.0,7.0,5.0,5.0,3.0,3.0,Neither easy nor difficult,Better Salary,Female,33,united states,Bachelors,Asian/Asian American
+62a3d8dbf8f7561645861f9d,data-related roles,No,115500.0,education & nonprofit,Python,6.0,10.0,10.0,10.0,7.0,6.0,Easy,Other (Please Specify):Learning New Things,Male,36,united states,Masters,Asian/Asian American
+62a3d9697dc029e2d66cf087,data-related roles,Yes,53000.0,healthcare & medical,Python,4.0,10.0,9.0,3.0,0.0,10.0,Difficult,Good Work/Life Balance,Male,25,united states,Bachelors,White/Caucasian
+62a3dac9f3072dd892631e12,data-related roles,No,187500.0,miscellaneous,Python,8.0,7.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,38,united states,Masters,White/Caucasian
+62a3dc3ab4da29969c63e3d7,data-related roles,Yes,75500.0,manufacturing & engineering,R,3.0,2.0,6.0,6.0,5.0,4.0,Difficult,Good Work/Life Balance,Male,30,united states,Masters,Other
+62a3e2abf8f75616458628d1,data-related roles,Yes,53000.0,technology & it,Python,3.0,5.0,6.0,6.0,6.0,7.0,Difficult,Good Culture,Male,35,united states,Masters,Black/African American
+62a3e32bd8c00e9f541ad5f0,education & research,No,53000.0,education & nonprofit,SQL,0.0,1.0,10.0,5.0,0.0,0.0,Difficult,Better Salary,Female,42,united states,Bachelors,White/Caucasian
+62a3ecf7bc6861bf3177d5c2,data-related roles,Yes,75500.0,healthcare & medical,Python,3.0,5.0,4.0,6.0,4.0,6.0,Easy,Remote Work,Male,30,united states,Masters,White/Caucasian
+62a3eea9bae91e4b8b8401a4,miscellaneous,Yes,20000.0,miscellaneous,Python,0.0,0.0,0.0,0.0,0.0,4.0,Very Difficult,Better Salary,Female,25,nigeria,Bachelors,Black/African American
+62a3f39df8d5efcc22f8ddc2,data-related roles,No,95500.0,healthcare & medical,Python,5.0,9.0,5.0,2.0,5.0,1.0,Difficult,Good Culture,Female,28,united states,Bachelors,Asian/Asian American
+62a3f6a25d257a28a30e9d02,data-related roles,Yes,20000.0,manufacturing & engineering,Python,5.0,10.0,8.0,5.0,7.0,10.0,Very Difficult,Other (Please Specify):Salary and expo,Male,28,canada,Bachelors,Asian/Asian American
+62a3f6d9bae91e4b8b8408ca,miscellaneous,No,20000.0,education & nonprofit,SQL,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Better Salary,Male,20,malaysia,High School,Asian/Asian American
+62a3fc7c7dc029e2d66d10e8,data-related roles,Yes,115500.0,real estate & construction,Other,7.0,8.0,7.0,7.0,10.0,10.0,Easy,Good Culture,Male,33,united states,Masters,Hispanic/Latino
+62a3fe0d5d257a28a30ea3c8,data-related roles,No,75500.0,technology & it,Python,8.0,6.0,7.0,7.0,8.0,8.0,Easy,Better Salary,Male,23,united states,Associates,White/Caucasian
+62a3fea50a77c1a77f66e41b,data-related roles,Yes,20000.0,healthcare & medical,R,4.0,5.0,7.0,7.0,5.0,7.0,Neither easy nor difficult,Better Salary,Female,35,brazil,Bachelors,Hispanic/Latino
+62a40276bc6861bf3177e6fd,miscellaneous,Yes,20000.0,manufacturing & engineering,Python,2.0,2.0,3.0,3.0,2.0,3.0,Difficult,Good Work/Life Balance,Male,22,india,Bachelors,Asian/Asian American
+62a403bbf8d5efcc22f8eb18,data-related roles,Yes,20000.0,technology & it,Python,5.0,10.0,5.0,6.0,6.0,8.0,Very Difficult,Better Salary,Male,33,india,Bachelors,Asian/Asian American
+62a403d30f8c8599d5b03d65,data-related roles,No,20000.0,real estate & construction,Python,1.0,7.0,7.0,7.0,1.0,2.0,Very Easy,Better Salary,Male,22,united states,Bachelors,White/Caucasian
+62a4044acf25554317312a81,data-related roles,Yes,95500.0,transportation & logistics,R,7.0,8.0,8.0,7.0,5.0,9.0,Neither easy nor difficult,Remote Work,Male,35,united states,Bachelors,White/Caucasian
+62a4061bf408bae018ee5deb,data-related roles,Yes,75500.0,food & beverage,SQL,8.0,5.0,6.0,4.0,4.0,8.0,Easy,Good Work/Life Balance,Female,37,united states,Masters,White/Caucasian
+62a40726575fa3a5ae89d990,miscellaneous,Yes,20000.0,finance & insurance,Python,4.0,,,,,,Very Easy,Better Salary,Male,22,united states,Associates,Other
+62a4098124a2626027394ddc,data-related roles,Yes,75500.0,healthcare & medical,Python,10.0,10.0,10.0,7.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,36,united states,Masters,White/Caucasian
+62a40c99575fa3a5ae89de4b,data-related roles,Yes,95500.0,retail & consumer goods,Python,6.0,5.0,8.0,8.0,7.0,9.0,Easy,Good Work/Life Balance,Male,26,india,Bachelors,Hispanic/Latino
+62a40d86d8c00e9f541afb5e,data-related roles,Yes,20000.0,consulting & professional services,R,3.0,2.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Good Culture,Female,25,south korea,Bachelors,Asian/Asian American
+62a40da3cf255543173132e2,data-related roles,Yes,53000.0,education & nonprofit,R,4.0,6.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,34,united states,High School,White/Caucasian
+62a40dfa5d257a28a30eb110,data-related roles,Yes,20000.0,food & beverage,Python,4.0,8.0,8.0,8.0,7.0,8.0,Difficult,Remote Work,Male,33,chile,Bachelors,Hispanic/Latino
+62a410b5cec54911e9cb8262,miscellaneous,No,53000.0,retail & consumer goods,Python,0.0,4.0,0.0,1.0,4.0,2.0,Very Difficult,Good Work/Life Balance,Male,37,united states,Bachelors,White/Caucasian
+62a41135bc6861bf3177f3d8,data-related roles,No,75500.0,entertainment & media,Python,5.0,5.0,7.0,6.0,4.0,6.0,Very Easy,Better Salary,Female,54,united states,High School,White/Caucasian
+62a41795cec54911e9cb8854,data-related roles,Yes,20000.0,finance & insurance,Python,2.0,,,,,,Very Easy,Better Salary,Male,26,india,Bachelors,Asian/Asian American
+62a41964d8c00e9f541b061d,data-related roles,No,53000.0,education & nonprofit,R,4.0,7.0,7.0,7.0,2.0,7.0,Neither easy nor difficult,Better Salary,Female,27,united states,Masters,Hispanic/Latino
+62a41968f8d5efcc22f8fd44,data-related roles,Yes,20000.0,technology & it,SQL,2.0,3.0,6.0,6.0,3.0,5.0,Difficult,Better Salary,Male,24,united kingdom,Bachelors,White/Caucasian
+62a41e23bc6861bf3177fffb,data-related roles,Yes,20000.0,finance & insurance,Python,5.0,5.0,5.0,5.0,5.0,10.0,Neither easy nor difficult,Better Salary,Male,24,egypt,Bachelors,White/Caucasian
+62a421cebc6861bf317803f5,miscellaneous,Yes,20000.0,consulting & professional services,Python,3.0,4.0,5.0,3.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,27,panama,Bachelors,White/Caucasian
+62a42243f8d5efcc22f90c55,miscellaneous,No,20000.0,miscellaneous,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Remote Work,Male,25,indonesia,Bachelors,Asian/Asian American
+62a424ccd8c00e9f541b114e,data-related roles,Yes,20000.0,technology & it,Python,1.0,7.0,7.0,7.0,7.0,1.0,Difficult,Better Salary,Female,28,united kingdom,Masters,Black/African American
+62a42527b4da29969c6423f7,business intelligence & analytics,No,53000.0,education & nonprofit,Python,3.0,6.0,5.0,5.0,3.0,4.0,Easy,Remote Work,Male,21,united states,Bachelors,Asian/Asian American
+62a425ec2e54c9003e5467bf,data-related roles,Yes,95500.0,healthcare & medical,Other,4.0,4.0,5.0,5.0,4.0,6.0,Difficult,Good Work/Life Balance,Female,28,united states,Bachelors,White/Caucasian
+62a427190a77c1a77f67095c,data-related roles,Yes,20000.0,technology & it,Python,3.0,5.0,5.0,5.0,5.0,2.0,Neither easy nor difficult,Remote Work,Male,30,ghana,Masters,Black/African American
+62a429f0f3072dd892636396,data-related roles,No,20000.0,education & nonprofit,Python,0.0,10.0,0.0,9.0,5.0,10.0,Easy,Remote Work,Male,24,angola,Associates,Black/African American
+62a42d6ef8d5efcc22f9178a,data-related roles,Yes,20000.0,healthcare & medical,Python,7.0,4.0,6.0,5.0,6.0,6.0,Difficult,Remote Work,Male,26,india,Bachelors,Asian/Asian American
+62a436fd24a2626027397c93,data-related roles,Yes,20000.0,technology & it,Python,,,,,,5.0,Neither easy nor difficult,Good Work/Life Balance,Female,19,bangladesh,High School,Asian/Asian American
+62a43e86f408bae018ee913a,miscellaneous,No,20000.0,consulting & professional services,Python,5.0,6.0,6.0,5.0,1.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Female,92,india,Masters,Asian/Asian American
+62a43ed4f8d5efcc22f92d0a,data-related roles,Yes,20000.0,healthcare & medical,Python,1.0,8.0,5.0,1.0,7.0,8.0,Neither easy nor difficult,Remote Work,Male,28,nigeria,Bachelors,Black/African American
+62a43f43f408bae018ee9281,miscellaneous,Yes,20000.0,education & nonprofit,Python,0.0,1.0,2.0,2.0,1.0,1.0,Neither easy nor difficult,Better Salary,Female,24,india,Masters,Asian/Asian American
+62a440ab575fa3a5ae8a1418,miscellaneous,No,53000.0,healthcare & medical,Python,7.0,10.0,10.0,10.0,5.0,10.0,Easy,Better Salary,Male,25,united states,Masters,Asian/Asian American
+62a441e3575fa3a5ae8a1552,data-related roles,Yes,53000.0,finance & insurance,Python,4.0,5.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,42,united kingdom,Masters,Black/African American
+62a446faf8f7561645868c60,data-related roles,Yes,20000.0,technology & it,Python,2.0,3.0,3.0,3.0,3.0,3.0,Difficult,Better Salary,Male,21,india,Bachelors,Asian/Asian American
+62a448832e54c9003e5491c5,data-related roles,No,75500.0,healthcare & medical,Python,7.0,8.0,9.0,7.0,7.0,6.0,Easy,Better Salary,Male,24,united states,Bachelors,White/Caucasian
+62a44ae2f8f7561645869335,data-related roles,Yes,53000.0,healthcare & medical,Python,4.0,7.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Female,26,united states,Bachelors,White/Caucasian
+62a44bc7bc6861bf31783829,data-related roles,Yes,20000.0,healthcare & medical,Python,2.0,8.0,8.0,9.0,8.0,10.0,Difficult,Better Salary,Male,30,united kingdom,Bachelors,White/Caucasian
+62a44ea3f408bae018eea62a,data-related roles,Yes,95500.0,technology & it,SQL,6.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Culture,Male,27,united states,Bachelors,Black/African American
+62a4514ff408bae018eea94d,data-related roles,Yes,20000.0,technology & it,Python,0.0,4.0,1.0,0.0,1.0,3.0,Easy,Better Salary,Male,28,india,Bachelors,Asian/Asian American
+62a45a140a77c1a77f67469d,data-related roles,No,75500.0,real estate & construction,SQL,6.0,8.0,7.0,7.0,5.0,6.0,Easy,Better Salary,Female,29,united kingdom,Bachelors,White/Caucasian
+62a45c8bf3072dd89263a493,data-related roles,No,20000.0,retail & consumer goods,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Good Work/Life Balance,Female,26,india,Bachelors,Asian/Asian American
+62a45f8c0f8c8599d5b09d40,data-related roles,Yes,20000.0,finance & insurance,Python,3.0,3.0,3.0,3.0,3.0,4.0,Neither easy nor difficult,Remote Work,Male,29,nigeria,Bachelors,Black/African American
+62a4604d0a77c1a77f674e29,business intelligence & analytics,No,75500.0,finance & insurance,None,3.0,5.0,7.0,2.0,5.0,7.0,Easy,Remote Work,Male,60,united kingdom,Masters,White/Caucasian
+62a46a66f8d5efcc22f95a7a,data-related roles,Yes,20000.0,healthcare & medical,Python,5.0,8.0,8.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,25,nigeria,Bachelors,Black/African American
+62a46ad7d8c00e9f541b664a,finance & accounting,No,20000.0,real estate & construction,R,0.0,0.0,1.0,3.0,2.0,1.0,Neither easy nor difficult,Good Work/Life Balance,Female,37,nigeria,Masters,Black/African American
+62a46dbecf25554317319e48,data-related roles,Yes,75500.0,finance & insurance,Python,6.0,8.0,3.0,4.0,5.0,1.0,Neither easy nor difficult,Better Salary,Female,30,canada,Bachelors,Asian/Asian American
+62a475dcf408bae018eed15c,data-related roles,Yes,20000.0,healthcare & medical,Python,0.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Better Salary,Female,27,nigeria,Masters,Black/African American
+62a477f0b4da29969c64892f,data-related roles,Yes,225000.0,technology & it,R,5.0,6.0,5.0,5.0,6.0,6.0,Difficult,Other (Please Specify):In office work,Male,31,united states,PhD,White/Caucasian
+62a47947cec54911e9cbf6b2,miscellaneous,No,20000.0,education & nonprofit,R,10.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,united kingdom,Masters,Asian/Asian American
+62a47c587dc029e2d66d9782,data-related roles,No,20000.0,finance & insurance,Other,0.0,6.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,20,united states,Bachelors,Black/African American
+62a47e3ef3072dd89263c8c0,software development & it,No,20000.0,technology & it,R,2.0,1.0,4.0,1.0,1.0,1.0,Easy,Good Work/Life Balance,Male,24,india,Bachelors,Asian/Asian American
+62a47e812e54c9003e54d789,miscellaneous,Yes,20000.0,manufacturing & engineering,R,3.0,6.0,7.0,6.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,24,romania,Bachelors,White/Caucasian
+62a47ea87dc029e2d66d9b60,miscellaneous,No,20000.0,miscellaneous,R,0.0,1.0,3.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,41,spain,Bachelors,Hispanic/Latino
+62a47f1e0a77c1a77f677174,data-related roles,Yes,95500.0,technology & it,R,8.0,8.0,8.0,8.0,8.0,8.0,Difficult,Better Salary,Male,41,united states,Bachelors,White/Caucasian
+62a48566b4da29969c64995a,management & leadership,No,187500.0,retail & consumer goods,Python,9.0,8.0,9.0,10.0,8.0,10.0,Neither easy nor difficult,Good Culture,Male,43,united states,Bachelors,White/Caucasian
+62a48612d8c00e9f541b86b8,data-related roles,No,75500.0,healthcare & medical,Python,7.0,7.0,8.0,4.0,6.0,9.0,Easy,Remote Work,Female,38,united states,Bachelors,White/Caucasian
+62a487167dc029e2d66da73e,data-related roles,Yes,20000.0,retail & consumer goods,Python,5.0,5.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,28,philippines,Bachelors,Asian/Asian American
+62a488197dc029e2d66da8a1,data-related roles,Yes,95500.0,healthcare & medical,Python,10.0,8.0,6.0,10.0,7.0,5.0,Neither easy nor difficult,Good Culture,Female,31,germany,Bachelors,Hispanic/Latino
+62a48c4c24a262602739e141,data-related roles,Yes,95500.0,government & public sector,Other,8.0,7.0,8.0,6.0,7.0,8.0,Difficult,Good Work/Life Balance,Female,28,united states,Masters,White/Caucasian
+62a48cbdf408bae018eeeccf,data-related roles,No,53000.0,healthcare & medical,C/C++,7.0,8.0,9.0,9.0,4.0,9.0,Easy,Remote Work,Male,23,united states,Masters,Asian/Asian American
+62a48d4df8d5efcc22f98308,data-related roles,No,53000.0,energy & utilities,Python,5.0,5.0,4.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,25,united kingdom,Bachelors,Black/African American
+62a48d562e54c9003e54ea2b,software development & it,No,20000.0,technology & it,R,2.0,5.0,2.0,8.0,9.0,10.0,Difficult,Remote Work,Male,26,poland,Masters,White/Caucasian
+62a48da6b4da29969c64a3a5,data-related roles,Yes,137500.0,finance & insurance,Python,9.0,4.0,8.0,7.0,5.0,6.0,Difficult,Good Work/Life Balance,Male,35,united states,Bachelors,White/Caucasian
+62a49012f408bae018eef16d,data-related roles,Yes,115500.0,retail & consumer goods,R,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Remote Work,Male,30,denmark,Masters,White/Caucasian
+62a491b3b4da29969c64a89e,data-related roles,Yes,95500.0,technology & it,R,3.0,,,,,,Neither easy nor difficult,Better Salary,Male,35,united kingdom,Bachelors,White/Caucasian
+62a4926ef408bae018eef4ee,data-related roles,Yes,20000.0,technology & it,Python,0.0,8.0,5.0,5.0,2.0,2.0,Easy,Better Salary,Male,28,panama,Bachelors,Hispanic/Latino
+62a495d724a262602739ee07,miscellaneous,No,20000.0,technology & it,Python,0.0,2.0,3.0,3.0,2.0,3.0,Easy,Good Work/Life Balance,Female,24,nigeria,Bachelors,Black/African American
+62a49b3cb4da29969c64b5dc,data-related roles,Yes,53000.0,technology & it,Python,8.0,10.0,7.0,5.0,6.0,5.0,Neither easy nor difficult,Good Culture,Female,34,united states,Bachelors,White/Caucasian
+62a49e087dc029e2d66dc57e,data-related roles,Yes,53000.0,technology & it,Python,3.0,5.0,4.0,5.0,3.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Female,31,germany,Masters,White/Caucasian
+62a49e47b4da29969c64b9f9,data-related roles,Yes,20000.0,technology & it,Python,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Good Work/Life Balance,Male,30,united kingdom,Masters,Asian/Asian American
+62a49e5f24a262602739f9af,data-related roles,Yes,95500.0,transportation & logistics,JavaScript,4.0,4.0,1.0,6.0,1.0,5.0,Difficult,Better Salary,Male,40,united kingdom,Bachelors,White/Caucasian
+62a49fe7b4da29969c64bbe1,data-related roles,No,53000.0,consulting & professional services,R,4.0,10.0,10.0,10.0,8.0,6.0,Very Difficult,Better Salary,Male,26,united states,Bachelors,Hispanic/Latino
+62a4a3d4f8d5efcc22f9a051,data-related roles,No,137500.0,healthcare & medical,R,9.0,9.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Good Culture,Male,25,united states,Bachelors,White/Caucasian
+62a4a8cb0a77c1a77f67a405,data-related roles,Yes,20000.0,transportation & logistics,SQL,,5.0,8.0,4.0,8.0,4.0,Easy,Good Culture,Male,45,greece,Associates,White/Caucasian
+62a4abb30f8c8599d5b0fc24,data-related roles,No,53000.0,finance & insurance,R,7.0,9.0,8.0,6.0,6.0,9.0,Neither easy nor difficult,Good Culture,Male,26,united states,Masters,Black/African American
+62a4afd87dc029e2d66ddb24,data-related roles,No,20000.0,finance & insurance,Python,7.0,7.0,8.0,6.0,6.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,india,Masters,Asian/Asian American
+62a4b085cec54911e9cc3afe,education & research,Yes,20000.0,finance & insurance,Python,3.0,2.0,4.0,2.0,2.0,3.0,Difficult,Better Salary,Male,23,india,Masters,Asian/Asian American
+62a4b23f5d257a28a30f6b8c,data-related roles,Yes,115500.0,technology & it,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,india,Masters,Asian/Asian American
+62a4b29a5d257a28a30f6c63,data-related roles,Yes,53000.0,healthcare & medical,R,4.0,5.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Female,33,united states,High School,White/Caucasian
+62a4b2e5f8f75616458712af,business intelligence & analytics,No,20000.0,technology & it,SQL,6.0,3.0,3.0,6.0,6.0,4.0,Very Easy,Other (Please Specify):Learning new skills,Male,33,india,Bachelors,Asian/Asian American
+62a4b6c30a77c1a77f67b54c,data-related roles,Yes,95500.0,healthcare & medical,R,7.0,8.0,7.0,8.0,3.0,4.0,Easy,Good Culture,Male,27,united states,Bachelors,White/Caucasian
+62a4bf07b4da29969c64e4f8,data-related roles,Yes,115500.0,technology & it,Python,9.0,9.0,9.0,8.0,8.0,9.0,Difficult,Remote Work,Female,28,united states,Masters,Hispanic/Latino
+62a4bf3a0a77c1a77f67bef2,data-related roles,Yes,75500.0,technology & it,Python,5.0,6.0,7.0,6.0,6.0,7.0,Very Easy,Better Salary,Male,32,united states,Bachelors,Hispanic/Latino
+62a4c49a575fa3a5ae8aadf4,data-related roles,Yes,20000.0,technology & it,Python,2.0,6.0,3.0,6.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,35,india,Masters,Asian/Asian American
+62a4c57af3072dd8926421ac,data-related roles,Yes,95500.0,real estate & construction,Python,8.0,9.0,10.0,10.0,9.0,10.0,Neither easy nor difficult,Good Culture,Male,34,united states,Masters,Hispanic/Latino
+62a4c6060a77c1a77f67c772,data-related roles,No,53000.0,retail & consumer goods,Python,9.0,8.0,3.0,5.0,2.0,4.0,Easy,Better Salary,Male,27,germany,Masters,White/Caucasian
+62a4c7d0f8f7561645872912,data-related roles,Yes,75500.0,education & nonprofit,R,4.0,5.0,5.0,3.0,3.0,4.0,Easy,Good Culture,Female,30,united states,Masters,White/Caucasian
+62a4cdfad8c00e9f541bdc6b,data-related roles,No,75500.0,transportation & logistics,Python,8.0,9.0,9.0,9.0,9.0,10.0,Neither easy nor difficult,Better Salary,Male,34,united states,Masters,White/Caucasian
+62a4ce2bbae91e4b8b84f3db,data-related roles,No,53000.0,energy & utilities,Python,3.0,10.0,6.0,5.0,7.0,8.0,Neither easy nor difficult,Remote Work,Female,22,united states,Bachelors,White/Caucasian
+62a4cffeb4da29969c64f6a1,data-related roles,Yes,20000.0,finance & insurance,Python,2.0,2.0,5.0,5.0,2.0,3.0,Very Difficult,Good Work/Life Balance,Female,33,india,Masters,Asian/Asian American
+62a4d08bf3072dd892642d2c,data-related roles,No,20000.0,finance & insurance,Python,8.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Better Salary,Female,26,india,Masters,Asian/Asian American
+62a4d13bbae91e4b8b84f89b,data-related roles,Yes,20000.0,technology & it,Python,0.0,5.0,8.0,6.0,5.0,7.0,Neither easy nor difficult,Better Salary,Male,28,argentina,Bachelors,Hispanic/Latino
+62a4d74c5d257a28a30f97fc,miscellaneous,No,20000.0,transportation & logistics,Python,2.0,2.0,7.0,4.0,8.0,1.0,Difficult,Remote Work,Male,42,united kingdom,Bachelors,Other
+62a4d7f6bae91e4b8b84ffed,data-related roles,No,20000.0,transportation & logistics,R,4.0,10.0,2.0,3.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,30,morocco,Masters,Middle Eastern/North African
+62a4d9d4bae91e4b8b8501f1,data-related roles,Yes,115500.0,technology & it,SQL,10.0,9.0,8.0,8.0,9.0,10.0,Difficult,Better Salary,Male,25,united states,Associates,White/Caucasian
+62a4dd63f408bae018ef4e51,data-related roles,Yes,53000.0,real estate & construction,Python,4.0,6.0,6.0,6.0,5.0,7.0,Easy,Better Salary,Male,32,united states,Bachelors,Black/African American
+62a4e34d7dc029e2d66e10b9,data-related roles,No,20000.0,technology & it,Python,3.0,4.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,31,germany,Masters,Asian/Asian American
+62a4e4c90f8c8599d5b13d8f,data-related roles,Yes,187500.0,education & nonprofit,Python,8.0,7.0,5.0,4.0,7.0,7.0,Easy,Remote Work,Male,30,united arab emirates,High School,White/Caucasian
+62a4e5aed8c00e9f541bf48c,miscellaneous,Yes,20000.0,retail & consumer goods,Python,0.0,6.0,6.0,2.0,0.0,3.0,Neither easy nor difficult,Better Salary,Male,23,canada,Bachelors,Asian/Asian American
+62a4f6eef3072dd892645775,data-related roles,No,75500.0,education & nonprofit,R,7.0,7.0,6.0,7.0,6.0,6.0,Easy,Remote Work,Female,31,united kingdom,Bachelors,White/Caucasian
+62a4fe370f8c8599d5b158c4,data-related roles,No,53000.0,transportation & logistics,Python,7.0,5.0,9.0,9.0,4.0,9.0,Neither easy nor difficult,Good Work/Life Balance,Female,29,finland,Masters,Black/African American
+62a5008c5d257a28a30fbde5,data-related roles,Yes,20000.0,technology & it,Python,5.0,4.0,4.0,5.0,7.0,10.0,Neither easy nor difficult,Remote Work,Male,24,nigeria,Bachelors,Black/African American
+62a5038acec54911e9cc9526,miscellaneous,No,53000.0,government & public sector,Python,2.0,7.0,6.0,5.0,6.0,4.0,Neither easy nor difficult,Better Salary,Male,36,united states,Masters,Asian/Asian American
+62a50775f8f756164587677b,data-related roles,Yes,53000.0,real estate & construction,R,4.0,6.0,6.0,6.0,6.0,6.0,Difficult,Remote Work,Female,32,united states,Masters,White/Caucasian
+62a50eddf8d5efcc22fa1a4e,business intelligence & analytics,Yes,95500.0,healthcare & medical,Python,8.0,9.0,7.0,7.0,7.0,9.0,Difficult,Remote Work,Female,36,united states,Bachelors,White/Caucasian
+62a511acbc6861bf3179178a,data-related roles,No,115500.0,healthcare & medical,SQL,8.0,6.0,5.0,2.0,3.0,2.0,Easy,Better Salary,Male,30,united states,Bachelors,White/Caucasian
+62a5177d18134ddc75d0e9d8,miscellaneous,Yes,20000.0,miscellaneous,R,0.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,42,sudan,Masters,Black/African American
+62a51aaacec54911e9cca93b,data-related roles,Yes,95500.0,healthcare & medical,DAX,6.0,6.0,6.0,5.0,4.0,4.0,Easy,Remote Work,Male,53,australia,PhD,White/Caucasian
+62a51dc6575fa3a5ae8b09f3,data-related roles,No,20000.0,finance & insurance,Python,1.0,7.0,4.0,10.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,25,kenya,High School,Asian/Asian American
+62a51fe0575fa3a5ae8b0c06,data-related roles,No,20000.0,healthcare & medical,Python,1.0,5.0,4.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,23,lebanon,Bachelors,White/Caucasian
+62a525aff8f75616458784dd,data-related roles,Yes,20000.0,food & beverage,Python,2.0,1.0,3.0,3.0,3.0,4.0,Difficult,Better Salary,Male,36,saudi arabia,Bachelors,Middle Eastern/North African
+62a52629b4da29969c654a94,data-related roles,Yes,53000.0,healthcare & medical,SQL,,,,,,6.0,Easy,Good Work/Life Balance,Male,32,united arab emirates,Bachelors,Black/African American
+62a52725d8c00e9f541c3b4a,data-related roles,No,95500.0,finance & insurance,Python,3.0,6.0,4.0,2.0,2.0,3.0,Difficult,Other (Please Specify):Challenging / exciting problems,Male,25,united states,Masters,Hispanic/Latino
+62a5390cb4da29969c655ccc,data-related roles,Yes,53000.0,technology & it,Python,4.0,4.0,3.0,4.0,4.0,5.0,Neither easy nor difficult,Remote Work,Female,35,united kingdom,Masters,Asian/Asian American
+62a53bc0bc6861bf31793947,data-related roles,Yes,75500.0,technology & it,R,3.0,4.0,4.0,5.0,4.0,4.0,Very Easy,Better Salary,Male,26,united states,Bachelors,White/Caucasian
+62a53c84f3072dd8926495c9,miscellaneous,No,20000.0,technology & it,Python,2.0,7.0,9.0,7.0,3.0,3.0,Difficult,Remote Work,Male,22,united states,Bachelors,White/Caucasian
+62a54bccf3072dd89264a13b,data-related roles,Yes,95500.0,manufacturing & engineering,Python,6.0,8.0,10.0,9.0,6.0,8.0,Neither easy nor difficult,Better Salary,Male,30,canada,Masters,Asian/Asian American
+62a54f20d8c00e9f541c5cfa,data-related roles,Yes,75500.0,transportation & logistics,Python,2.0,8.0,6.0,1.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,36,united states,Masters,White/Caucasian
+62a552e1cf2555431732922d,data-related roles,Yes,75500.0,healthcare & medical,R,4.0,4.0,5.0,5.0,4.0,6.0,Neither easy nor difficult,Other (Please Specify):All of the above,Female,30,united states,Masters,White/Caucasian
+62a557d10f8c8599d5b1a81c,data-related roles,Yes,115500.0,finance & insurance,Python,9.0,8.0,10.0,10.0,10.0,10.0,Difficult,Remote Work,Male,29,united states,Bachelors,Asian/Asian American
+62a55b05f8d5efcc22fa5b65,business intelligence & analytics,Yes,75500.0,consulting & professional services,R,8.0,10.0,10.0,7.0,8.0,5.0,Difficult,Other (Please Specify):Data Maturity,Male,30,united states,Masters,White/Caucasian
+62a55fe1f8d5efcc22fa5fe4,data-related roles,No,53000.0,finance & insurance,Python,0.0,6.0,6.0,6.0,6.0,6.0,Very Easy,Better Salary,Male,24,united states,Bachelors,Black/African American
+62a56bc67dc029e2d66e86c0,data-related roles,Yes,225000.0,technology & it,SQL,3.0,3.0,4.0,4.0,3.0,5.0,Neither easy nor difficult,Better Salary,Male,33,united states,Bachelors,Asian/Asian American
+62a57116f408bae018efd56a,data-related roles,No,115500.0,food & beverage,Python,10.0,10.0,10.0,10.0,10.0,6.0,Easy,Better Salary,Female,42,united states,Bachelors,White/Caucasian
+62a57263cec54911e9ccf648,data-related roles,Yes,53000.0,healthcare & medical,Python,1.0,10.0,10.0,8.0,10.0,3.0,Neither easy nor difficult,Better Salary,Female,36,united states,Bachelors,White/Caucasian
+62a574b3b4da29969c658eb4,data-related roles,Yes,53000.0,healthcare & medical,Python,2.0,3.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,27,united states,Bachelors,White/Caucasian
+62a58b267dc029e2d66ea3f8,data-related roles,No,20000.0,technology & it,Python,8.0,7.0,8.0,7.0,7.0,9.0,Easy,Other (Please Specify):Opportunity to learn,Female,21,india,Bachelors,Asian/Asian American
+62a58d20575fa3a5ae8b6969,data-related roles,Yes,53000.0,healthcare & medical,Python,8.0,5.0,8.0,8.0,5.0,10.0,Difficult,Remote Work,Female,34,israel,Masters,White/Caucasian
+62a58faf2e54c9003e55ef2e,miscellaneous,No,20000.0,education & nonprofit,Python,2.0,5.0,5.0,5.0,2.0,4.0,Difficult,Better Salary,Male,27,netherlands,Bachelors,White/Caucasian
+62a5998fbc6861bf31798ef0,business intelligence & analytics,Yes,20000.0,technology & it,Python,7.0,8.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Good Culture,Male,27,france,Masters,White/Caucasian
+62a59cd2cec54911e9cd251a,miscellaneous,No,20000.0,education & nonprofit,R,1.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,30,kenya,Associates,Black/African American
+62a59d007dc029e2d66eb8f9,data-related roles,Yes,75500.0,government & public sector,SQL,2.0,0.0,0.0,0.0,0.0,2.0,Difficult,Better Salary,Female,33,united states,Bachelors,White/Caucasian
+62a5a124cec54911e9cd29f5,data-related roles,Yes,95500.0,finance & insurance,Python,3.0,3.0,4.0,4.0,4.0,4.0,Difficult,Good Culture,Male,47,india,Masters,Other
+62a5a44b24a26260273af0fc,data-related roles,Yes,75500.0,retail & consumer goods,SQL,4.0,5.0,4.0,5.0,4.0,4.0,Difficult,Other (Please Specify):Better work & remote salary,Male,27,united states,Masters,Asian/Asian American
+62a5a931cec54911e9cd3333,data-related roles,No,20000.0,healthcare & medical,Python,6.0,7.0,8.0,7.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,26,india,Bachelors,Asian/Asian American
+62a5bea05d257a28a3106f7e,data-related roles,No,20000.0,finance & insurance,Python,2.0,3.0,2.0,5.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,35,india,Masters,Asian/Asian American
+62a5c571575fa3a5ae8baaa1,data-related roles,Yes,95500.0,education & nonprofit,Python,0.0,1.0,1.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Male,31,united states,Masters,Hispanic/Latino
+62a5cb12cf25554317330d69,data-related roles,Yes,20000.0,education & nonprofit,Python,2.0,1.0,2.0,3.0,4.0,3.0,Difficult,Remote Work,Male,25,zambia,Bachelors,Black/African American
+62a5cba2575fa3a5ae8bb122,data-related roles,Yes,75500.0,real estate & construction,Python,3.0,10.0,8.0,8.0,10.0,10.0,Easy,Remote Work,Male,27,united states,Bachelors,White/Caucasian
+62a5d350f3072dd892652c70,data-related roles,Yes,53000.0,technology & it,Python,5.0,8.0,3.0,2.0,4.0,8.0,Neither easy nor difficult,Good Culture,Male,32,netherlands,Bachelors,White/Caucasian
+62a5db29cf2555431733248f,miscellaneous,Yes,20000.0,real estate & construction,Python,0.0,3.0,3.0,3.0,3.0,6.0,Difficult,Good Work/Life Balance,Male,47,portugal,Bachelors,White/Caucasian
+62a5e69f24a26260273b42bf,data-related roles,No,75500.0,finance & insurance,Python,0.0,10.0,10.0,5.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Female,30,united states,Masters,Asian/Asian American
+62a5ea667dc029e2d66f153d,data-related roles,Yes,115500.0,manufacturing & engineering,Python,8.0,6.0,6.0,7.0,9.0,10.0,Easy,Better Salary,Female,35,united states,Masters,Black/African American
+62a5ebe05d257a28a310ac53,data-related roles,Yes,53000.0,finance & insurance,Python,6.0,9.0,5.0,7.0,8.0,9.0,Difficult,Remote Work,Male,25,united states,High School,Hispanic/Latino
+62a5edb2575fa3a5ae8bdba5,data-related roles,No,75500.0,food & beverage,Python,3.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,27,united states,Bachelors,White/Caucasian
+62a5edba0a77c1a77f68f1b5,data-related roles,Yes,53000.0,healthcare & medical,R,1.0,5.0,3.0,3.0,6.0,5.0,Difficult,Remote Work,Female,27,united states,Masters,Black/African American
+62a5f332bc6861bf3179f631,miscellaneous,No,20000.0,technology & it,Python,1.0,8.0,8.0,1.0,3.0,7.0,Very Easy,Better Salary,Female,23,india,Masters,Asian/Asian American
+62a5f872bae91e4b8b861e53,data-related roles,No,53000.0,manufacturing & engineering,Python,9.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Good Culture,Male,18,united states,Bachelors,White/Caucasian
+62a609b8f8f75616458875b7,data-related roles,Yes,20000.0,healthcare & medical,Python,8.0,10.0,9.0,6.0,8.0,9.0,Easy,Remote Work,Female,28,costa rica,Masters,Hispanic/Latino
+62a609c4bc6861bf317a10a3,business intelligence & analytics,Yes,137500.0,healthcare & medical,Python,7.0,6.0,8.0,8.0,8.0,7.0,Easy,Remote Work,Male,28,united states,Bachelors,White/Caucasian
+62a61076f8f7561645887ded,miscellaneous,No,20000.0,miscellaneous,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Good Work/Life Balance,Female,26,united states,Bachelors,Other
+62a615fd18134ddc75d1f1fa,miscellaneous,No,20000.0,education & nonprofit,Python,0.0,0.0,3.0,0.0,0.0,8.0,Difficult,Better Salary,Male,27,ghana,Bachelors,Black/African American
+62a617c30a77c1a77f6925fc,data-related roles,No,53000.0,technology & it,Python,9.0,7.0,9.0,10.0,10.0,10.0,Neither easy nor difficult,Good Work/Life Balance,Female,22,india,Masters,Asian/Asian American
+62a618a9d8c00e9f541d3537,data-related roles,Yes,20000.0,technology & it,R,0.0,8.0,7.0,6.0,3.0,9.0,Very Difficult,Better Salary,Male,27,united states,High School,White/Caucasian
+62a61eb02e54c9003e5697f7,data-related roles,Yes,20000.0,food & beverage,Python,5.0,7.0,6.0,8.0,7.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,28,india,Bachelors,Asian/Asian American
+62a6246df3072dd892659218,data-related roles,Yes,20000.0,technology & it,Python,3.0,2.0,4.0,3.0,3.0,3.0,Neither easy nor difficult,Better Salary,Male,25,nigeria,High School,Black/African American
+62a62a7124a26260273b94fa,data-related roles,No,20000.0,healthcare & medical,Python,2.0,6.0,6.0,7.0,7.0,9.0,Difficult,Better Salary,Male,32,united kingdom,Bachelors,Hispanic/Latino
+62a631782e54c9003e56ac36,miscellaneous,Yes,20000.0,finance & insurance,SQL,7.0,9.0,10.0,10.0,3.0,4.0,Easy,Remote Work,Male,33,uruguay,Bachelors,White/Caucasian
+62a633b4d8c00e9f541d54a4,data-related roles,No,53000.0,government & public sector,Python,5.0,6.0,5.0,2.0,3.0,3.0,Easy,Remote Work,Male,23,canada,Masters,Black/African American
+62a639e05d257a28a3110ef5,miscellaneous,Yes,20000.0,finance & insurance,R,4.0,5.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Remote Work,Female,40,nigeria,Bachelors,Black/African American
+62a642690f8c8599d5b2ab37,data-related roles,Yes,53000.0,consulting & professional services,Python,7.0,9.0,9.0,9.0,7.0,9.0,Easy,Better Salary,Female,28,united kingdom,Bachelors,Asian/Asian American
+62a64b4dd8c00e9f541d6d81,data-related roles,No,20000.0,real estate & construction,R,3.0,7.0,8.0,6.0,6.0,9.0,Difficult,Remote Work,Male,26,nigeria,High School,Black/African American
+62a64c6ecf2555431733a7a4,software development & it,Yes,20000.0,technology & it,Python,3.0,5.0,5.0,4.0,3.0,2.0,Difficult,Better Salary,Female,24,india,Bachelors,Asian/Asian American
+62a654165d257a28a3112ac9,software development & it,Yes,95500.0,finance & insurance,Python,7.0,5.0,5.0,8.0,8.0,8.0,Neither easy nor difficult,Remote Work,Female,40,united states,Associates,Other
+62a65618d8c00e9f541d783a,data-related roles,Yes,75500.0,consulting & professional services,Python,8.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Better Salary,Male,26,united states,Bachelors,Black/African American
+62a65db824a26260273bc9ff,data-related roles,Yes,53000.0,consulting & professional services,Python,8.0,8.0,10.0,10.0,10.0,10.0,Easy,Good Culture,Female,44,united kingdom,Bachelors,White/Caucasian
+62a66558cf2555431733c0f9,software development & it,Yes,75500.0,finance & insurance,Python,7.0,9.0,8.0,8.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,36,united states,Masters,White/Caucasian
+62a6772c18134ddc75d25895,business intelligence & analytics,Yes,20000.0,consulting & professional services,Python,1.0,5.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Better Salary,Male,30,costa rica,Bachelors,Hispanic/Latino
+62a68f1e0a77c1a77f69a381,sales & marketing,Yes,20000.0,real estate & construction,Python,3.0,3.0,3.0,2.0,2.0,2.0,Very Easy,Good Work/Life Balance,Male,48,indonesia,Masters,Asian/Asian American
+62a6a11a0a77c1a77f69b7cb,data-related roles,Yes,53000.0,real estate & construction,Other,1.0,4.0,1.0,2.0,2.0,3.0,Easy,Better Salary,Female,30,canada,Masters,Asian/Asian American
+62a6ac1524a26260273c1cd0,miscellaneous,No,20000.0,technology & it,Python,3.0,8.0,8.0,5.0,3.0,5.0,Difficult,Better Salary,Male,28,india,Bachelors,Asian/Asian American
+62a6b0790a77c1a77f69cb15,software development & it,No,20000.0,technology & it,Python,5.0,8.0,7.0,7.0,3.0,2.0,Difficult,Better Salary,Male,25,india,Bachelors,Asian/Asian American
+62a6bc6a18134ddc75d2a726,business intelligence & analytics,No,115500.0,technology & it,SQL,6.0,5.0,4.0,4.0,3.0,4.0,Easy,Better Salary,Male,24,united states,Masters,Other
+62a6c3d9cec54911e9ce7669,data-related roles,Yes,53000.0,education & nonprofit,Python,5.0,10.0,7.0,7.0,4.0,8.0,Easy,Better Salary,Male,31,united states,Bachelors,Black/African American
+62a6d037cec54911e9ce862a,data-related roles,No,20000.0,real estate & construction,Python,3.0,3.0,8.0,9.0,5.0,3.0,Easy,Better Salary,Male,23,united kingdom,Bachelors,Middle Eastern/North African
+62a6d2532e54c9003e575d9c,data-related roles,No,53000.0,government & public sector,DAX,1.0,4.0,4.0,1.0,1.0,4.0,Easy,Good Culture,Female,48,united kingdom,Masters,White/Caucasian
+62a6dbcad8c00e9f541e1050,data-related roles,Yes,75500.0,healthcare & medical,Python,6.0,9.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Better Salary,Male,28,united states,Bachelors,Black/African American
+62a6e2815d257a28a311c8f9,data-related roles,Yes,53000.0,retail & consumer goods,Python,5.0,7.0,7.0,7.0,7.0,7.0,Difficult,Better Salary,Male,32,united kingdom,Masters,Hispanic/Latino
+62a6ea03d8c00e9f541e3594,data-related roles,Yes,53000.0,finance & insurance,Python,5.0,7.0,7.0,4.0,5.0,7.0,Neither easy nor difficult,Better Salary,Male,30,hong kong,Bachelors,Asian/Asian American
+62a7029ff8f7561645899bae,data-related roles,Yes,20000.0,finance & insurance,Python,5.0,5.0,7.0,7.0,7.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,32,tunisia,Masters,White/Caucasian
+62a7047c24a26260273c9646,data-related roles,Yes,20000.0,technology & it,Python,0.0,3.0,0.0,1.0,0.0,0.0,Easy,Good Culture,Female,30,sri lanka,Masters,Asian/Asian American
+62a70b55cec54911e9cedd98,data-related roles,Yes,20000.0,manufacturing & engineering,Python,4.0,2.0,5.0,2.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,35,spain,Masters,White/Caucasian
+62a71930bae91e4b8b878b2b,miscellaneous,Yes,20000.0,technology & it,R,,,,,,10.0,Easy,Remote Work,Female,38,united kingdom,Masters,Black/African American
+62a73a37f8d5efcc22fcb724,sales & marketing,Yes,75500.0,retail & consumer goods,Python,6.0,6.0,7.0,7.0,6.0,7.0,Easy,Good Culture,Female,30,united states,Masters,Asian/Asian American
+62a73aa824a26260273d0172,data-related roles,Yes,53000.0,technology & it,Python,3.0,3.0,5.0,4.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,48,united states,Bachelors,White/Caucasian
+62a73c5b0a77c1a77f6aba65,data-related roles,Yes,75500.0,finance & insurance,SQL,5.0,8.0,5.0,5.0,5.0,4.0,Easy,Remote Work,Male,32,canada,Masters,Asian/Asian American
+62a749ebd8c00e9f541efa36,sales & marketing,Yes,53000.0,technology & it,Python,4.0,5.0,4.0,5.0,5.0,6.0,Difficult,Good Work/Life Balance,Male,27,india,Bachelors,Other
+62a74e28b4da29969c681108,sales & marketing,No,53000.0,technology & it,Python,7.0,9.0,5.0,6.0,6.0,7.0,Easy,Other (Please Specify):The work,Male,27,united kingdom,Masters,White/Caucasian
+62a758185d257a28a312bc94,miscellaneous,No,20000.0,finance & insurance,Python,8.0,7.0,6.0,7.0,8.0,10.0,Neither easy nor difficult,Remote Work,Male,24,kenya,Bachelors,Black/African American
+62a75a5418134ddc75d3d2f1,data-related roles,Yes,187500.0,finance & insurance,R,9.0,9.0,9.0,9.0,8.0,8.0,Difficult,Better Salary,Male,42,united states,PhD,Asian/Asian American
+62a75ed0f8f75616458a5d1a,business intelligence & analytics,No,53000.0,technology & it,Python,8.0,6.0,6.0,8.0,7.0,8.0,Neither easy nor difficult,Better Salary,Male,24,united states,Bachelors,Hispanic/Latino
+62a75f1b575fa3a5ae8e0010,data-related roles,Yes,20000.0,technology & it,Python,5.0,9.0,7.0,7.0,6.0,9.0,Easy,Better Salary,Male,23,india,Bachelors,Asian/Asian American
+62a764ffd8c00e9f541f3cc3,data-related roles,No,20000.0,technology & it,Python,7.0,9.0,8.0,8.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,26,india,Bachelors,Asian/Asian American
+62a76c962e54c9003e588661,data-related roles,No,53000.0,retail & consumer goods,SQL,5.0,6.0,6.0,2.0,2.0,3.0,Neither easy nor difficult,Better Salary,Male,32,germany,Bachelors,Black/African American
+62a772da575fa3a5ae8e2a4a,sales & marketing,No,20000.0,technology & it,Python,4.0,3.0,2.0,0.0,0.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,35,argentina,Bachelors,White/Caucasian
+62a7738a2e54c9003e589598,data-related roles,Yes,115500.0,healthcare & medical,Python,4.0,3.0,4.0,2.0,2.0,2.0,Easy,Good Work/Life Balance,Male,41,united states,High School,White/Caucasian
+62a77967f8d5efcc22fd4c81,data-related roles,No,53000.0,education & nonprofit,Python,4.0,9.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Better Salary,Male,25,united states,Masters,White/Caucasian
+62a77a37f8d5efcc22fd4e47,data-related roles,Yes,20000.0,real estate & construction,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Female,28,united states,Masters,Asian/Asian American
+62a77cb7b4da29969c68743a,data-related roles,Yes,53000.0,food & beverage,Python,3.0,6.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,29,united states,Bachelors,White/Caucasian
+62a78743f8f75616458ab6bb,miscellaneous,No,20000.0,technology & it,Python,8.0,10.0,6.0,7.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,19,united states,High School,White/Caucasian
+62a789015d257a28a3132977,data-related roles,Yes,53000.0,finance & insurance,Python,5.0,6.0,9.0,6.0,7.0,10.0,Neither easy nor difficult,Better Salary,Male,27,india,Bachelors,Asian/Asian American
+62a78f3bf408bae018f2ef51,miscellaneous,Yes,20000.0,finance & insurance,Python,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,25,other (please specify),Bachelors,White/Caucasian
+62a7988bbae91e4b8b88b8ee,data-related roles,Yes,53000.0,education & nonprofit,Python,6.0,10.0,10.0,10.0,10.0,8.0,Difficult,Better Salary,Female,26,canada,Masters,Asian/Asian American
+62a79c9c2e54c9003e58f0d5,data-related roles,Yes,20000.0,healthcare & medical,Python,3.0,4.0,5.0,5.0,4.0,5.0,Difficult,Good Work/Life Balance,Male,25,spain,Bachelors,White/Caucasian
+62a7b0ae0f8c8599d5b51cd0,data-related roles,Yes,20000.0,manufacturing & engineering,Python,6.0,6.0,9.0,9.0,10.0,10.0,Neither easy nor difficult,Remote Work,Male,25,portugal,Bachelors,White/Caucasian
+62a7b283f8d5efcc22fdc189,data-related roles,Yes,20000.0,healthcare & medical,R,2.0,3.0,4.0,3.0,3.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Male,26,liberia,Bachelors,Black/African American
+62a7b296f8d5efcc22fdc1ef,data-related roles,Yes,137500.0,education & nonprofit,Python,8.0,8.0,7.0,6.0,7.0,9.0,Neither easy nor difficult,Good Culture,Male,35,united states,Bachelors,White/Caucasian
+62a7bd0e5d257a28a313855c,data-related roles,Yes,95500.0,retail & consumer goods,Python,6.0,7.0,7.0,6.0,7.0,6.0,Difficult,Remote Work,Male,29,united states,Masters,Black/African American
+62a7be5e5d257a28a313876a,data-related roles,Yes,95500.0,technology & it,Python,7.0,6.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,Better Salary,Female,41,united states,Associates,Hispanic/Latino
+62a7ce44575fa3a5ae8ece5f,miscellaneous,No,20000.0,education & nonprofit,Python,0.0,6.0,4.0,5.0,2.0,4.0,Very Difficult,Remote Work,Female,22,united states,Bachelors,Hispanic/Latino
+62a7e1380f8c8599d5b55fcf,data-related roles,Yes,75500.0,healthcare & medical,None,2.0,6.0,6.0,4.0,3.0,3.0,Difficult,Better Salary,Male,35,united states,Bachelors,Hispanic/Latino
+62a7e2d024a26260273e4448,data-related roles,Yes,75500.0,finance & insurance,Python,4.0,3.0,4.0,4.0,4.0,6.0,Very Difficult,Better Salary,Male,30,singapore,Bachelors,Asian/Asian American
+62a7ed9c0f8c8599d5b57132,data-related roles,No,187500.0,real estate & construction,Python,4.0,6.0,3.0,2.0,3.0,3.0,Neither easy nor difficult,Good Culture,Male,37,canada,Bachelors,Asian/Asian American
+62a7f09a0f8c8599d5b57526,data-related roles,Yes,75500.0,transportation & logistics,Python,6.0,7.0,7.0,5.0,5.0,9.0,Difficult,Better Salary,Female,28,united states,Masters,Black/African American
+62a7fb02f8d5efcc22fe2486,data-related roles,No,95500.0,real estate & construction,Python,7.0,5.0,6.0,6.0,4.0,6.0,Neither easy nor difficult,Good Culture,Male,23,united states,High School,White/Caucasian
+62a816907dc029e2d6725a33,miscellaneous,No,20000.0,finance & insurance,Python,3.0,4.0,8.0,5.0,5.0,3.0,Neither easy nor difficult,Better Salary,Male,26,united states,High School,Asian/Asian American
+62a84764bc6861bf317d7b86,data-related roles,No,75500.0,transportation & logistics,Python,2.0,4.0,4.0,3.0,4.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,australia,Bachelors,Other
+62a84f9af408bae018f41e34,data-related roles,No,20000.0,technology & it,Python,0.0,1.0,2.0,1.0,1.0,1.0,Neither easy nor difficult,Remote Work,Male,23,india,Bachelors,Asian/Asian American
+62a85803f8d5efcc22fea92f,miscellaneous,Yes,20000.0,miscellaneous,None,0.0,1.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Male,53,nigeria,Bachelors,Black/African American
+62a8592f7dc029e2d672c0a8,data-related roles,Yes,20000.0,technology & it,Python,4.0,6.0,6.0,3.0,7.0,9.0,Neither easy nor difficult,Better Salary,Female,33,romania,Bachelors,White/Caucasian
+62a8643bcec54911e9d14297,miscellaneous,Yes,20000.0,finance & insurance,R,3.0,5.0,5.0,4.0,5.0,6.0,Difficult,Better Salary,Male,39,other (please specify),High School,Black/African American
+62a8665c5d257a28a31474f7,data-related roles,Yes,20000.0,healthcare & medical,Excel,6.0,7.0,5.0,7.0,7.0,9.0,Difficult,Better Salary,Female,22,united kingdom,Bachelors,White/Caucasian
+62a868c5cf2555431737094b,data-related roles,No,53000.0,finance & insurance,Python,4.0,7.0,7.0,7.0,5.0,5.0,Easy,Better Salary,Male,24,germany,Bachelors,White/Caucasian
+62a88e9ff8d5efcc22ff1eb6,data-related roles,No,95500.0,energy & utilities,Python,5.0,1.0,3.0,1.0,4.0,5.0,Difficult,Good Work/Life Balance,Male,31,canada,High School,White/Caucasian
+62a89e365d257a28a314fd36,data-related roles,Yes,20000.0,retail & consumer goods,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Better Salary,Male,25,asia,Bachelors,Asian/Asian American
+62a8b6ffbae91e4b8b8aa5c2,miscellaneous,No,20000.0,technology & it,R,4.0,7.0,7.0,6.0,6.0,6.0,Neither easy nor difficult,Better Salary,Male,25,india,Bachelors,Asian/Asian American
+62a8bf9e575fa3a5ae907617,data-related roles,No,20000.0,technology & it,Python,3.0,4.0,4.0,4.0,2.0,0.0,Neither easy nor difficult,Good Work/Life Balance,Male,23,india,Bachelors,Asian/Asian American
+62a8cd29bc6861bf317ea9a2,sales & marketing,Yes,53000.0,technology & it,SQL,6.0,7.0,7.0,7.0,7.0,6.0,Neither easy nor difficult,Other (Please Specify):Remote too,Male,23,india,Bachelors,Asian/Asian American
+62a8f477f408bae018f5869d,data-related roles,No,95500.0,healthcare & medical,Python,8.0,9.0,8.0,8.0,8.0,9.0,Difficult,Better Salary,Male,40,united states,High School,White/Caucasian
+62a8fcf5cf25554317384604,data-related roles,No,53000.0,education & nonprofit,C/C++,5.0,6.0,6.0,2.0,0.0,4.0,Neither easy nor difficult,Better Salary,Male,29,united states,Bachelors,Hispanic/Latino
+62a8fe9abc6861bf317f0c01,data-related roles,Yes,20000.0,technology & it,Python,1.0,7.0,5.0,5.0,4.0,4.0,Difficult,Better Salary,Male,28,india,Bachelors,Asian/Asian American
+62a9024d18134ddc75d6e76d,data-related roles,Yes,20000.0,healthcare & medical,R,3.0,6.0,6.0,4.0,6.0,3.0,Very Easy,Better Salary,Female,28,united kingdom,Masters,Black/African American
+62a95253bae91e4b8b8b91d9,miscellaneous,Yes,20000.0,technology & it,Python,0.0,3.0,3.0,4.0,5.0,5.0,Difficult,Good Work/Life Balance,Female,26,india,Masters,Asian/Asian American
+62a960567dc029e2d6749dd8,data-related roles,No,53000.0,real estate & construction,Python,6.0,8.0,8.0,5.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,30,netherlands,Masters,White/Caucasian
+62a9612bf8d5efcc22007c09,data-related roles,Yes,75500.0,education & nonprofit,SQL,5.0,9.0,7.0,9.0,8.0,9.0,Neither easy nor difficult,Better Salary,Male,27,australia,Bachelors,Asian/Asian American
+62a962380f8c8599d5b7e3fb,data-related roles,Yes,20000.0,retail & consumer goods,None,2.0,0.0,5.0,3.0,0.0,3.0,Very Difficult,Remote Work,Male,28,nigeria,Bachelors,Black/African American
+62a993537dc029e2d674e9b5,data-related roles,No,75500.0,education & nonprofit,Python,3.0,3.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Good Work/Life Balance,Female,38,nigeria,Masters,Black/African American
+62a9bb81bc6861bf3180079c,data-related roles,No,20000.0,finance & insurance,Python,2.0,6.0,5.0,5.0,6.0,6.0,Easy,Good Culture,Male,22,mexico,Bachelors,White/Caucasian
+62a9c880f408bae018f6aa1b,data-related roles,Yes,95500.0,energy & utilities,Python,7.0,8.0,9.0,9.0,9.0,9.0,Difficult,Better Salary,Male,34,united states,Bachelors,Hispanic/Latino
+62a9e206f3072dd8926bce70,data-related roles,No,20000.0,technology & it,Python,3.0,8.0,8.0,5.0,7.0,9.0,Easy,Better Salary,Male,26,indonesia,Bachelors,Asian/Asian American
+62a9f0172e54c9003e5cdc25,data-related roles,Yes,75500.0,technology & it,Python,5.0,9.0,7.0,7.0,8.0,9.0,Neither easy nor difficult,Better Salary,Female,26,canada,Bachelors,Asian/Asian American
+62a9f8a4cf2555431739d694,data-related roles,No,75500.0,education & nonprofit,Python,10.0,10.0,10.0,9.0,9.0,10.0,Difficult,Remote Work,Male,25,greece,Bachelors,White/Caucasian
+62aa121dcec54911e9d446cc,data-related roles,Yes,137500.0,technology & it,Python,5.0,3.0,7.0,4.0,5.0,3.0,Easy,Other (Please Specify):Collaboration ,Male,34,united states,Bachelors,Black/African American
+62aa1734f3072dd8926c4168,miscellaneous,Yes,53000.0,finance & insurance,DAX,7.0,10.0,10.0,10.0,4.0,5.0,Neither easy nor difficult,Good Work/Life Balance,Female,32,poland,Bachelors,Hispanic/Latino
+62aa21e218134ddc75d8be11,miscellaneous,No,20000.0,real estate & construction,R,2.0,2.0,2.0,2.0,2.0,2.0,Difficult,Better Salary,Male,24,united states,Associates,Black/African American
+62aa29852e54c9003e5d50b5,data-related roles,Yes,20000.0,technology & it,Python,7.0,3.0,3.0,2.0,5.0,9.0,Difficult,Better Salary,Male,26,argentina,Bachelors,Hispanic/Latino
+62aa2f44bc6861bf3180fd06,data-related roles,Yes,53000.0,technology & it,SQL,4.0,7.0,5.0,6.0,4.0,6.0,Difficult,Better Salary,Female,32,sweden,Masters,Black/African American
+62aa3454bae91e4b8b8d3249,data-related roles,No,53000.0,technology & it,R,5.0,1.0,7.0,1.0,1.0,2.0,Neither easy nor difficult,Good Work/Life Balance,Male,40,portugal,Masters,White/Caucasian
+62aa34e8f3072dd8926c7d56,data-related roles,No,20000.0,entertainment & media,Python,0.0,7.0,1.0,6.0,0.0,0.0,Easy,Better Salary,Male,27,united states,Bachelors,Black/African American
+62aa356ff8d5efcc22020832,data-related roles,Yes,75500.0,technology & it,R,4.0,3.0,6.0,7.0,4.0,7.0,Easy,Better Salary,Male,28,united states,Masters,Black/African American
+62aa3e6824a26260274264da,data-related roles,Yes,20000.0,retail & consumer goods,Python,1.0,9.0,5.0,5.0,1.0,1.0,Difficult,Better Salary,Male,30,nigeria,Bachelors,Black/African American
+62aa4790f8d5efcc2202266e,data-related roles,Yes,20000.0,education & nonprofit,Python,0.0,6.0,5.0,5.0,5.0,6.0,Difficult,Remote Work,Male,37,united states,Bachelors,White/Caucasian
+62aa5761bc6861bf318141fc,software development & it,No,53000.0,technology & it,JavaScript,7.0,7.0,5.0,5.0,0.0,0.0,Difficult,Good Culture,Male,32,australia,Bachelors,Asian/Asian American
+62aa5c11f408bae018f7dec0,data-related roles,Yes,53000.0,technology & it,Python,9.0,7.0,10.0,10.0,5.0,8.0,Neither easy nor difficult,Better Salary,Male,24,saudi arabia,Bachelors,Middle Eastern/North African
+62aa956ef8d5efcc22028e3d,data-related roles,Yes,20000.0,technology & it,Python,6.0,7.0,7.0,7.0,5.0,6.0,Neither easy nor difficult,Better Salary,Male,39,argentina,Associates,White/Caucasian
+62aa95970a77c1a77f709268,data-related roles,Yes,137500.0,finance & insurance,Python,6.0,8.0,7.0,4.0,4.0,2.0,Easy,Other (Please Specify):Better Tech Stack,Male,34,australia,Bachelors,Asian/Asian American
+62aa98bfcf255543173adbdc,data-related roles,No,53000.0,manufacturing & engineering,Python,5.0,6.0,10.0,7.0,3.0,3.0,Neither easy nor difficult,Remote Work,Male,27,united states,Bachelors,Black/African American
+62aaa387f8d5efcc22029fcb,data-related roles,Yes,75500.0,healthcare & medical,SQL,7.0,7.0,4.0,7.0,7.0,7.0,Difficult,Better Salary,Male,54,united states,High School,White/Caucasian
+62aaa86bbae91e4b8b8dc832,miscellaneous,No,20000.0,technology & it,Python,0.0,,,,,,Difficult,Remote Work,Female,20,india,Bachelors,Asian/Asian American
+62aacd922e54c9003e5e33c2,miscellaneous,Yes,20000.0,finance & insurance,SQL,3.0,3.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,25,india,Masters,Asian/Asian American
+62aaeecd0f8c8599d5ba6923,miscellaneous,No,20000.0,technology & it,Python,7.0,7.0,2.0,2.0,7.0,9.0,Easy,Good Work/Life Balance,Male,33,india,Bachelors,Asian/Asian American
+62aaf8397dc029e2d6773cde,data-related roles,Yes,53000.0,technology & it,Python,4.0,8.0,8.0,8.0,10.0,10.0,Very Easy,Remote Work,Male,30,united kingdom,Masters,White/Caucasian
+62aaff342e54c9003e5e79b8,miscellaneous,Yes,20000.0,technology & it,Python,0.0,4.0,2.0,0.0,1.0,3.0,Neither easy nor difficult,Better Salary,Male,31,niger,High School,Black/African American
+62ab0bdc575fa3a5ae9413e5,miscellaneous,Yes,20000.0,manufacturing & engineering,Python,5.0,6.0,5.0,6.0,2.0,1.0,Difficult,Remote Work,Male,22,france,Masters,Middle Eastern/North African
+62ab1cb0cec54911e9d5d187,data-related roles,Yes,75500.0,technology & it,R,8.0,10.0,10.0,10.0,8.0,9.0,Neither easy nor difficult,Remote Work,Female,38,united states,Bachelors,Black/African American
+62ab3e62bae91e4b8b8ebe14,data-related roles,No,20000.0,transportation & logistics,Python,6.0,9.0,7.0,7.0,5.0,8.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,malaysia,Bachelors,Asian/Asian American
+62ab6ab318134ddc75dabb09,data-related roles,Yes,20000.0,real estate & construction,Python,2.0,3.0,4.0,5.0,3.0,6.0,Very Easy,Better Salary,Male,33,india,Bachelors,Asian/Asian American
+62ab83a7d8c00e9f54263d2e,data-related roles,Yes,53000.0,technology & it,Python,3.0,6.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Better Salary,Male,27,canada,Bachelors,White/Caucasian
+62ab8bf65d257a28a319e9cb,data-related roles,No,20000.0,technology & it,R,0.0,6.0,3.0,0.0,0.0,10.0,Neither easy nor difficult,Remote Work,Male,19,algeria,Bachelors,White/Caucasian
+62abec6cf3072dd8926f2ad0,miscellaneous,No,20000.0,technology & it,Python,1.0,6.0,2.0,5.0,1.0,0.0,Neither easy nor difficult,Better Salary,Male,24,india,Bachelors,Asian/Asian American
+62abee280f8c8599d5bc246d,management & leadership,No,187500.0,finance & insurance,None,8.0,10.0,9.0,10.0,8.0,10.0,Very Easy,Good Culture,Female,58,united states,Masters,White/Caucasian
+62acc1f0cf255543173e59f7,data-related roles,No,20000.0,technology & it,Python,2.0,2.0,5.0,6.0,6.0,3.0,Neither easy nor difficult,Good Work/Life Balance,Male,22,nigeria,Bachelors,Black/African American
+62ace61d575fa3a5ae972d57,data-related roles,No,95500.0,technology & it,Python,4.0,4.0,4.0,4.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,26,ireland,Masters,Asian/Asian American
+62acf0890f8c8599d5bdce87,data-related roles,No,53000.0,technology & it,Other,4.0,5.0,4.0,5.0,5.0,3.0,Easy,Good Culture,Female,31,united kingdom,Bachelors,White/Caucasian
+62ad591424a2626027471080,data-related roles,No,53000.0,food & beverage,Python,2.0,2.0,4.0,5.0,1.0,1.0,Neither easy nor difficult,Better Salary,Male,23,united states,High School,Hispanic/Latino
+62ade22318134ddc75de385f,data-related roles,No,95500.0,healthcare & medical,Python,7.0,10.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Remote Work,Female,31,united states,Masters,Asian/Asian American
+62adf26f18134ddc75de4bb4,miscellaneous,No,75500.0,real estate & construction,Other,5.0,5.0,7.0,7.0,9.0,10.0,Difficult,Better Salary,Female,24,united states,Bachelors,Asian/Asian American
+62ae680024a2626027483ebc,business intelligence & analytics,Yes,53000.0,finance & insurance,Python,8.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Better Salary,Male,29,mexico,Bachelors,Hispanic/Latino
+62aee103f8f756164595adb8,miscellaneous,Yes,20000.0,education & nonprofit,Python,7.0,8.0,9.0,8.0,9.0,10.0,Difficult,Good Work/Life Balance,Male,26,indonesia,Bachelors,Asian/Asian American
+62af07be7dc029e2d67cc3c8,miscellaneous,Yes,20000.0,education & nonprofit,Python,3.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Better Salary,Male,20,india,High School,Asian/Asian American
+62af10295d257a28a31e6ff8,data-related roles,Yes,20000.0,education & nonprofit,Python,0.0,2.0,3.0,2.0,4.0,2.0,Neither easy nor difficult,Better Salary,Male,23,india,Bachelors,Asian/Asian American
+62af387018134ddc75df894e,data-related roles,No,115500.0,technology & it,Python,8.0,8.0,9.0,8.0,7.0,7.0,Neither easy nor difficult,Good Work/Life Balance,Male,33,united states,Masters,White/Caucasian
+62af49025d257a28a31eb2f1,miscellaneous,Yes,20000.0,technology & it,Python,2.0,3.0,3.0,5.0,5.0,9.0,Easy,Remote Work,Male,26,nigeria,Bachelors,Black/African American
+62af53ce0f8c8599d5c04934,data-related roles,Yes,20000.0,consulting & professional services,R,3.0,9.0,8.0,8.0,6.0,6.0,Difficult,Better Salary,Male,27,india,Bachelors,Asian/Asian American
+62af6371f8d5efcc2208e923,miscellaneous,No,20000.0,food & beverage,SQL,0.0,8.0,8.0,8.0,8.0,8.0,Neither easy nor difficult,Better Salary,Male,22,uzbekistan,Bachelors,Asian/Asian American
+62af9ed7f3072dd892739279,data-related roles,Yes,20000.0,technology & it,Python,3.0,9.0,9.0,6.0,9.0,4.0,Easy,Better Salary,Male,23,spain,Masters,White/Caucasian
+62b152960f8c8599d5c31550,software development & it,Yes,20000.0,food & beverage,Python,3.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Better Salary,Male,28,mexico,Bachelors,Hispanic/Latino
+62b16a5c5d257a28a321a74c,data-related roles,No,53000.0,finance & insurance,SQL,7.0,5.0,4.0,6.0,4.0,5.0,Easy,Good Work/Life Balance,Female,39,portugal,Masters,White/Caucasian
+62b21d40bae91e4b8b985154,management & leadership,No,115500.0,transportation & logistics,Python,3.0,2.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Better Salary,Male,37,united states,Masters,White/Caucasian
+62b27004bc6861bf318c9038,data-related roles,Yes,53000.0,education & nonprofit,SQL,4.0,7.0,7.0,7.0,7.0,7.0,Difficult,Better Salary,Female,29,united states,Masters,White/Caucasian
+62b2ea87f8d5efcc220e3e21,data-related roles,Yes,115500.0,finance & insurance,Python,5.0,6.0,6.0,5.0,4.0,3.0,Easy,Good Work/Life Balance,Male,42,united states,Masters,White/Caucasian
+62b35284cec54911e9e1818c,miscellaneous,No,20000.0,technology & it,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Good Culture,Female,25,canada,Bachelors,Asian/Asian American
+62b4404df31287f32e14d1c1,data-related roles,Yes,20000.0,technology & it,Python,5.0,5.0,5.0,5.0,4.0,5.0,Easy,Better Salary,Male,66,morocco,High School,Black/African American
+62b525563f28f20328aeee5c,data-related roles,Yes,137500.0,retail & consumer goods,R,8.0,5.0,6.0,6.0,5.0,7.0,Easy,Better Salary,Male,26,united states,Bachelors,White/Caucasian
+62b5a3e29bc428d5345f6e89,data-related roles,No,20000.0,manufacturing & engineering,R,4.0,6.0,7.0,7.0,4.0,6.0,Difficult,Better Salary,Male,21,united states,Bachelors,White/Caucasian
+62b71083f31287f32e189026,miscellaneous,Yes,20000.0,technology & it,Python,1.0,2.0,1.0,2.0,1.0,2.0,Difficult,Better Salary,Male,26,oman,Bachelors,Asian/Asian American
+62b795033b026e423f287ecd,data-related roles,No,20000.0,technology & it,Python,6.0,6.0,6.0,6.0,4.0,3.0,Easy,Other (Please Specify):Career Advancedment,Male,24,costa rica,Bachelors,Hispanic/Latino
+62b89039377223ff07b80fb5,data-related roles,No,53000.0,manufacturing & engineering,Python,8.0,7.0,6.0,7.0,6.0,8.0,Easy,Remote Work,Male,22,united states,Bachelors,Asian/Asian American
