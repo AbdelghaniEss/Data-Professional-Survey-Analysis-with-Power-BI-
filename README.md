@@ -23,3 +23,17 @@ With the cleaned dataset in CSV format, analysis and visualizations were conduct
 - **Power BI - Final Project.csv**: The original survey dataset in CSV format.
 - **Data Professional Survey.csv**: The cleaned and standardized dataset in CSV format, ready for Power BI analysis.
 
+
+
+### Additional Data Cleaning in Power BI
+
+After importing the cleaned CSV into Power BI, I performed two additional data adjustments directly in Power BI:
+
+1. **Job Title Standardization**: In the column `Q1-Current Job Title`, I used Power BI's "Replace Values" function to standardize remaining job titles that were missed during the initial cleaning process in Jupyter. Specifically, this included consolidating `sr. supply chain analyst` under the **Business Intelligence & Analytics** category.
+
+2. **Country Field Adjustment**: In the column `Q11 - Which Country do you live in?`, entries labeled as 'other (please specify)' were replaced with a blank value to address the lack of identifiable country information.
+
+3. **Handling Blank Values in Q6 Columns**: For all columns starting with **Q6**, blank values were replaced with `0` and the data type was converted from **text** to **decimal number** to enable accurate numerical analysis.
+
+These updates ensure further consistency and clarity for analysis within Power BI.
+
